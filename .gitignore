@@ -2,11 +2,6 @@
 ..
 *.class
 
-#package file
-
-*.war
-*.ear
-
 #kdiff3 ignore
 *.orig
 
@@ -39,3 +34,5 @@ Thumbs.db
 
 # vscode ignore
 .vscode/
+
+*.pyc
