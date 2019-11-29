@@ -852,7 +852,7 @@
 |869||[similar string groups](https://leetcode-cn.com/problems/similar-string-groups/)||[困难][level_3]|
 |870||[magic squares in grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)||[简单][level_1]|
 |871||[keys and rooms](https://leetcode-cn.com/problems/keys-and-rooms/)||[中等][level_2]|
-|872||[split array into fibonacci sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)||[中等][level_2]|
+|872||[split array into fibonacci sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)|[python](https://github.com/xinsuishang/leetcode_problems/blob/master/src/python/fibonacci-number/python/fibonacci-number.py)|[中等][level_2]|
 |873||[guess the word](https://leetcode-cn.com/problems/guess-the-word/)||[困难][level_3]|
 |874||[backspace string compare](https://leetcode-cn.com/problems/backspace-string-compare/)||[简单][level_1]|
 |875||[longest mountain in array](https://leetcode-cn.com/problems/longest-mountain-in-array/)||[中等][level_2]|
