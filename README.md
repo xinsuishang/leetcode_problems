@@ -446,6 +446,12 @@
 |423||[reconstruct original digits from english](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/)||[中等][level_2]|
 |424||[longest repeating character replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/)||[中等][level_2]|
 |425||[word squares](https://leetcode-cn.com/problems/word-squares/)||[困难][level_3]|
+|426||[convert binary search tree to sorted doubly linked list](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)||[中等][level_2]|
+|427||[construct quad tree](https://leetcode-cn.com/problems/construct-quad-tree/)||[中等][level_2]|
+|428||[serialize and deserialize n ary tree](https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree/)||[困难][level_3]|
+|429||[n ary tree level order traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)||[中等][level_2]|
+|430||[flatten a multilevel doubly linked list](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)||[中等][level_2]|
+|431||[encode n ary tree to binary tree](https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree/)||[困难][level_3]|
 |432||[all oone data structure](https://leetcode-cn.com/problems/all-oone-data-structure/)||[困难][level_3]|
 |433||[minimum genetic mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation/)||[中等][level_2]|
 |434||[number of segments in a string](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)||[简单][level_1]|
@@ -484,6 +490,7 @@
 |467||[unique substrings in wraparound string](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/)||[中等][level_2]|
 |468||[validate ip address](https://leetcode-cn.com/problems/validate-ip-address/)||[中等][level_2]|
 |469||[convex polygon](https://leetcode-cn.com/problems/convex-polygon/)||[中等][level_2]|
+|470||[implement rand10 using rand7](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)||[中等][level_2]|
 |471||[encode string with shortest length](https://leetcode-cn.com/problems/encode-string-with-shortest-length/)||[困难][level_3]|
 |472||[concatenated words](https://leetcode-cn.com/problems/concatenated-words/)||[困难][level_3]|
 |473||[matchsticks to square](https://leetcode-cn.com/problems/matchsticks-to-square/)||[中等][level_2]|
@@ -491,6 +498,7 @@
 |475||[heaters](https://leetcode-cn.com/problems/heaters/)||[简单][level_1]|
 |476||[number complement](https://leetcode-cn.com/problems/number-complement/)||[简单][level_1]|
 |477||[total hamming distance](https://leetcode-cn.com/problems/total-hamming-distance/)||[中等][level_2]|
+|478||[generate random point in a circle](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/)||[中等][level_2]|
 |479||[largest palindrome product](https://leetcode-cn.com/problems/largest-palindrome-product/)||[困难][level_3]|
 |480||[sliding window median](https://leetcode-cn.com/problems/sliding-window-median/)||[困难][level_3]|
 |481||[magical string](https://leetcode-cn.com/problems/magical-string/)||[中等][level_2]|
@@ -501,6 +509,7 @@
 |486||[predict the winner](https://leetcode-cn.com/problems/predict-the-winner/)||[中等][level_2]|
 |487||[max consecutive ones ii](https://leetcode-cn.com/problems/max-consecutive-ones-ii/)||[中等][level_2]|
 |488||[zuma game](https://leetcode-cn.com/problems/zuma-game/)||[困难][level_3]|
+|489||[robot room cleaner](https://leetcode-cn.com/problems/robot-room-cleaner/)||[困难][level_3]|
 |490||[the maze](https://leetcode-cn.com/problems/the-maze/)||[中等][level_2]|
 |491||[increasing subsequences](https://leetcode-cn.com/problems/increasing-subsequences/)||[中等][level_2]|
 |492||[construct the rectangle](https://leetcode-cn.com/problems/construct-the-rectangle/)||[简单][level_1]|
@@ -508,6 +517,7 @@
 |494||[target sum](https://leetcode-cn.com/problems/target-sum/)||[中等][level_2]|
 |495||[teemo attacking](https://leetcode-cn.com/problems/teemo-attacking/)||[中等][level_2]|
 |496||[next greater element i](https://leetcode-cn.com/problems/next-greater-element-i/)||[简单][level_1]|
+|497||[random point in non overlapping rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/)||[中等][level_2]|
 |498||[diagonal traverse](https://leetcode-cn.com/problems/diagonal-traverse/)||[中等][level_2]|
 |499||[the maze iii](https://leetcode-cn.com/problems/the-maze-iii/)||[困难][level_3]|
 |500||[keyboard row](https://leetcode-cn.com/problems/keyboard-row/)||[简单][level_1]|
@@ -519,14 +529,17 @@
 |506||[relative ranks](https://leetcode-cn.com/problems/relative-ranks/)||[简单][level_1]|
 |507||[perfect number](https://leetcode-cn.com/problems/perfect-number/)||[简单][level_1]|
 |508||[most frequent subtree sum](https://leetcode-cn.com/problems/most-frequent-subtree-sum/)||[中等][level_2]|
-|509||[inorder successor in bst ii](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii/)||[中等][level_2]|
-|511||[all paths from source lead to destination](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination/)||[中等][level_2]|
+|509||[fibonacci number](https://leetcode-cn.com/problems/fibonacci-number/)|[python](https://github.com/xinsuishang/leetcode_problems/blob/master/src/python/fibonacci-number/fibonacci-number.py)|[简单][level_1]|
+|510||[inorder successor in bst ii](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii/)||[中等][level_2]|
+|511||[game play analysis i](https://leetcode-cn.com/problems/game-play-analysis-i/)||[简单][level_1]|
+|512||[game play analysis ii](https://leetcode-cn.com/problems/game-play-analysis-ii/)||[简单][level_1]|
 |513||[find bottom left tree value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)||[中等][level_2]|
 |514||[freedom trail](https://leetcode-cn.com/problems/freedom-trail/)||[困难][level_3]|
 |515||[find largest value in each tree row](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)||[中等][level_2]|
 |516||[longest palindromic subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)||[中等][level_2]|
 |517||[super washing machines](https://leetcode-cn.com/problems/super-washing-machines/)||[困难][level_3]|
 |518||[coin change 2](https://leetcode-cn.com/problems/coin-change-2/)||[中等][level_2]|
+|519||[random flip matrix](https://leetcode-cn.com/problems/random-flip-matrix/)||[中等][level_2]|
 |520||[detect capital](https://leetcode-cn.com/problems/detect-capital/)||[简单][level_1]|
 |521||[longest uncommon subsequence i](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)||[简单][level_1]|
 |522||[longest uncommon subsequence ii](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/)||[中等][level_2]|
@@ -535,11 +548,13 @@
 |525||[contiguous array](https://leetcode-cn.com/problems/contiguous-array/)||[中等][level_2]|
 |526||[beautiful arrangement](https://leetcode-cn.com/problems/beautiful-arrangement/)||[中等][level_2]|
 |527||[word abbreviation](https://leetcode-cn.com/problems/word-abbreviation/)||[困难][level_3]|
+|528||[random pick with weight](https://leetcode-cn.com/problems/random-pick-with-weight/)||[中等][level_2]|
 |529||[minesweeper](https://leetcode-cn.com/problems/minesweeper/)||[中等][level_2]|
 |530||[minimum absolute difference in bst](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)||[简单][level_1]|
 |531||[lonely pixel i](https://leetcode-cn.com/problems/lonely-pixel-i/)||[中等][level_2]|
 |532||[k diff pairs in an array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/)||[简单][level_1]|
 |533||[lonely pixel ii](https://leetcode-cn.com/problems/lonely-pixel-ii/)||[中等][level_2]|
+|534||[game play analysis iii](https://leetcode-cn.com/problems/game-play-analysis-iii/)||[中等][level_2]|
 |535||[encode and decode tinyurl](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/)||[中等][level_2]|
 |536||[construct binary tree from string](https://leetcode-cn.com/problems/construct-binary-tree-from-string/)||[中等][level_2]|
 |537||[complex number multiplication](https://leetcode-cn.com/problems/complex-number-multiplication/)||[中等][level_2]|
@@ -555,6 +570,7 @@
 |547||[friend circles](https://leetcode-cn.com/problems/friend-circles/)||[中等][level_2]|
 |548||[split array with equal sum](https://leetcode-cn.com/problems/split-array-with-equal-sum/)||[中等][level_2]|
 |549||[binary tree longest consecutive sequence ii](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii/)||[中等][level_2]|
+|550||[game play analysis iv](https://leetcode-cn.com/problems/game-play-analysis-iv/)||[中等][level_2]|
 |551||[student attendance record i](https://leetcode-cn.com/problems/student-attendance-record-i/)||[简单][level_1]|
 |552||[student attendance record ii](https://leetcode-cn.com/problems/student-attendance-record-ii/)||[困难][level_3]|
 |553||[optimal division](https://leetcode-cn.com/problems/optimal-division/)||[中等][level_2]|
@@ -562,6 +578,8 @@
 |555||[split concatenated strings](https://leetcode-cn.com/problems/split-concatenated-strings/)||[中等][level_2]|
 |556||[next greater element iii](https://leetcode-cn.com/problems/next-greater-element-iii/)||[中等][level_2]|
 |557||[reverse words in a string iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)||[简单][level_1]|
+|558||[quad tree intersection](https://leetcode-cn.com/problems/quad-tree-intersection/)||[简单][level_1]|
+|559||[maximum depth of n ary tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)||[简单][level_1]|
 |560||[subarray sum equals k](https://leetcode-cn.com/problems/subarray-sum-equals-k/)||[中等][level_2]|
 |561||[array partition i](https://leetcode-cn.com/problems/array-partition-i/)||[简单][level_1]|
 |562||[longest line of consecutive one in matrix](https://leetcode-cn.com/problems/longest-line-of-consecutive-one-in-matrix/)||[中等][level_2]|
@@ -591,6 +609,8 @@
 |586||[customer placing the largest number of orders](https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders/)||[简单][level_1]|
 |587||[erect the fence](https://leetcode-cn.com/problems/erect-the-fence/)||[困难][level_3]|
 |588||[design in memory file system](https://leetcode-cn.com/problems/design-in-memory-file-system/)||[困难][level_3]|
+|589||[n ary tree preorder traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)||[简单][level_1]|
+|590||[n ary tree postorder traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)||[简单][level_1]|
 |591||[tag validator](https://leetcode-cn.com/problems/tag-validator/)||[困难][level_3]|
 |592||[fraction addition and subtraction](https://leetcode-cn.com/problems/fraction-addition-and-subtraction/)||[中等][level_2]|
 |593||[valid square](https://leetcode-cn.com/problems/valid-square/)||[中等][level_2]|
@@ -622,6 +642,7 @@
 |619||[biggest single number](https://leetcode-cn.com/problems/biggest-single-number/)||[简单][level_1]|
 |620||[not boring movies](https://leetcode-cn.com/problems/not-boring-movies/)||[简单][level_1]|
 |621||[task scheduler](https://leetcode-cn.com/problems/task-scheduler/)||[中等][level_2]|
+|622||[design circular queue](https://leetcode-cn.com/problems/design-circular-queue/)||[中等][level_2]|
 |623||[add one row to tree](https://leetcode-cn.com/problems/add-one-row-to-tree/)||[中等][level_2]|
 |624||[maximum distance in arrays](https://leetcode-cn.com/problems/maximum-distance-in-arrays/)||[简单][level_1]|
 |625||[minimum factorization](https://leetcode-cn.com/problems/minimum-factorization/)||[中等][level_2]|
@@ -640,6 +661,7 @@
 |638||[shopping offers](https://leetcode-cn.com/problems/shopping-offers/)||[中等][level_2]|
 |639||[decode ways ii](https://leetcode-cn.com/problems/decode-ways-ii/)||[困难][level_3]|
 |640||[solve the equation](https://leetcode-cn.com/problems/solve-the-equation/)||[中等][level_2]|
+|641||[design circular deque](https://leetcode-cn.com/problems/design-circular-deque/)||[中等][level_2]|
 |642||[design search autocomplete system](https://leetcode-cn.com/problems/design-search-autocomplete-system/)||[困难][level_3]|
 |643||[maximum average subarray i](https://leetcode-cn.com/problems/maximum-average-subarray-i/)||[简单][level_1]|
 |644||[maximum average subarray ii](https://leetcode-cn.com/problems/maximum-average-subarray-ii/)||[困难][level_3]|
@@ -698,6 +720,17 @@
 |697||[degree of an array](https://leetcode-cn.com/problems/degree-of-an-array/)||[简单][level_1]|
 |698||[partition to k equal sum subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)||[中等][level_2]|
 |699||[falling squares](https://leetcode-cn.com/problems/falling-squares/)||[困难][level_3]|
+|700||[search in a binary search tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)||[简单][level_1]|
+|701||[insert into a binary search tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||[中等][level_2]|
+|702||[search in a sorted array of unknown size](https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size/)||[中等][level_2]|
+|703||[kth largest element in a stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)||[简单][level_1]|
+|704||[binary search](https://leetcode-cn.com/problems/binary-search/)||[简单][level_1]|
+|705||[design hashset](https://leetcode-cn.com/problems/design-hashset/)||[简单][level_1]|
+|706||[design hashmap](https://leetcode-cn.com/problems/design-hashmap/)||[简单][level_1]|
+|707||[design linked list](https://leetcode-cn.com/problems/design-linked-list/)||[中等][level_2]|
+|708||[insert into a sorted circular linked list](https://leetcode-cn.com/problems/insert-into-a-sorted-circular-linked-list/)||[中等][level_2]|
+|709||[to lower case](https://leetcode-cn.com/problems/to-lower-case/)||[简单][level_1]|
+|710||[random pick with blacklist](https://leetcode-cn.com/problems/random-pick-with-blacklist/)||[困难][level_3]|
 |711||[number of distinct islands ii](https://leetcode-cn.com/problems/number-of-distinct-islands-ii/)||[困难][level_3]|
 |712||[minimum ascii delete sum for two strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)||[中等][level_2]|
 |713||[subarray product less than k](https://leetcode-cn.com/problems/subarray-product-less-than-k/)||[中等][level_2]|
@@ -729,570 +762,532 @@
 |739||[daily temperatures](https://leetcode-cn.com/problems/daily-temperatures/)||[中等][level_2]|
 |740||[delete and earn](https://leetcode-cn.com/problems/delete-and-earn/)||[中等][level_2]|
 |741||[cherry pickup](https://leetcode-cn.com/problems/cherry-pickup/)||[困难][level_3]|
-|742||[to lower case](https://leetcode-cn.com/problems/to-lower-case/)||[简单][level_1]|
-|743||[closest leaf in a binary tree](https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree/)||[中等][level_2]|
-|744||[network delay time](https://leetcode-cn.com/problems/network-delay-time/)||[中等][level_2]|
-|745||[find smallest letter greater than target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)||[简单][level_1]|
-|746||[prefix and suffix search](https://leetcode-cn.com/problems/prefix-and-suffix-search/)||[困难][level_3]|
-|747||[min cost climbing stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)||[简单][level_1]|
-|748||[largest number at least twice of others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)||[简单][level_1]|
-|749||[shortest completing word](https://leetcode-cn.com/problems/shortest-completing-word/)||[简单][level_1]|
-|750||[contain virus](https://leetcode-cn.com/problems/contain-virus/)||[困难][level_3]|
-|751||[number of corner rectangles](https://leetcode-cn.com/problems/number-of-corner-rectangles/)||[中等][level_2]|
-|752||[ip to cidr](https://leetcode-cn.com/problems/ip-to-cidr/)||[简单][level_1]|
-|753||[open the lock](https://leetcode-cn.com/problems/open-the-lock/)||[中等][level_2]|
-|754||[cracking the safe](https://leetcode-cn.com/problems/cracking-the-safe/)||[困难][level_3]|
-|755||[reach a number](https://leetcode-cn.com/problems/reach-a-number/)||[简单][level_1]|
-|756||[pour water](https://leetcode-cn.com/problems/pour-water/)||[中等][level_2]|
-|757||[pyramid transition matrix](https://leetcode-cn.com/problems/pyramid-transition-matrix/)||[中等][level_2]|
-|758||[convert binary search tree to sorted doubly linked list](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)||[中等][level_2]|
-|759||[set intersection size at least two](https://leetcode-cn.com/problems/set-intersection-size-at-least-two/)||[困难][level_3]|
-|760||[bold words in string](https://leetcode-cn.com/problems/bold-words-in-string/)||[简单][level_1]|
-|761||[employee free time](https://leetcode-cn.com/problems/employee-free-time/)||[困难][level_3]|
-|762||[find anagram mappings](https://leetcode-cn.com/problems/find-anagram-mappings/)||[简单][level_1]|
-|763||[special binary string](https://leetcode-cn.com/problems/special-binary-string/)||[困难][level_3]|
-|764||[n ary tree level order traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)||[中等][level_2]|
-|765||[serialize and deserialize n ary tree](https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree/)||[困难][level_3]|
-|766||[flatten a multilevel doubly linked list](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)||[中等][level_2]|
-|767||[prime number of set bits in binary representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)||[简单][level_1]|
-|768||[partition labels](https://leetcode-cn.com/problems/partition-labels/)||[中等][level_2]|
-|769||[largest plus sign](https://leetcode-cn.com/problems/largest-plus-sign/)||[中等][level_2]|
-|770||[couples holding hands](https://leetcode-cn.com/problems/couples-holding-hands/)||[困难][level_3]|
-|771||[encode n ary tree to binary tree](https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree/)||[困难][level_3]|
-|772||[construct quad tree](https://leetcode-cn.com/problems/construct-quad-tree/)||[中等][level_2]|
-|773||[quad tree intersection](https://leetcode-cn.com/problems/quad-tree-intersection/)||[简单][level_1]|
-|774||[maximum depth of n ary tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)||[简单][level_1]|
-|775||[n ary tree preorder traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)||[简单][level_1]|
-|776||[n ary tree postorder traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)||[简单][level_1]|
-|777||[toeplitz matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)||[简单][level_1]|
-|778||[reorganize string](https://leetcode-cn.com/problems/reorganize-string/)||[中等][level_2]|
-|779||[max chunks to make sorted ii](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/)||[困难][level_3]|
-|780||[max chunks to make sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)||[中等][level_2]|
-|781||[basic calculator iv](https://leetcode-cn.com/problems/basic-calculator-iv/)||[困难][level_3]|
-|782||[jewels and stones](https://leetcode-cn.com/problems/jewels-and-stones/)||[简单][level_1]|
-|783||[search in a binary search tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)||[简单][level_1]|
-|784||[insert into a binary search tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)||[中等][level_2]|
-|785||[basic calculator iii](https://leetcode-cn.com/problems/basic-calculator-iii/)||[困难][level_3]|
-|786||[search in a sorted array of unknown size](https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size/)||[中等][level_2]|
-|787||[sliding puzzle](https://leetcode-cn.com/problems/sliding-puzzle/)||[困难][level_3]|
-|788||[minimize max distance to gas station](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station/)||[困难][level_3]|
-|789||[kth largest element in a stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)||[简单][level_1]|
-|790||[global and local inversions](https://leetcode-cn.com/problems/global-and-local-inversions/)||[中等][level_2]|
-|791||[split bst](https://leetcode-cn.com/problems/split-bst/)||[中等][level_2]|
-|792||[binary search](https://leetcode-cn.com/problems/binary-search/)||[简单][level_1]|
-|793||[swap adjacent in lr string](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string/)||[中等][level_2]|
-|794||[swim in rising water](https://leetcode-cn.com/problems/swim-in-rising-water/)||[困难][level_3]|
-|795||[k th symbol in grammar](https://leetcode-cn.com/problems/k-th-symbol-in-grammar/)||[中等][level_2]|
-|796||[reaching points](https://leetcode-cn.com/problems/reaching-points/)||[困难][level_3]|
-|797||[rabbits in forest](https://leetcode-cn.com/problems/rabbits-in-forest/)||[中等][level_2]|
-|798||[transform to chessboard](https://leetcode-cn.com/problems/transform-to-chessboard/)||[困难][level_3]|
-|799||[minimum distance between bst nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)||[简单][level_1]|
-|800||[letter case permutation](https://leetcode-cn.com/problems/letter-case-permutation/)||[简单][level_1]|
-|801||[is graph bipartite](https://leetcode-cn.com/problems/is-graph-bipartite/)||[中等][level_2]|
-|802||[k th smallest prime fraction](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/)||[困难][level_3]|
-|803||[cheapest flights within k stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)||[中等][level_2]|
-|804||[rotated digits](https://leetcode-cn.com/problems/rotated-digits/)||[简单][level_1]|
-|805||[escape the ghosts](https://leetcode-cn.com/problems/escape-the-ghosts/)||[中等][level_2]|
-|806||[domino and tromino tiling](https://leetcode-cn.com/problems/domino-and-tromino-tiling/)||[中等][level_2]|
-|807||[custom sort string](https://leetcode-cn.com/problems/custom-sort-string/)||[中等][level_2]|
-|808||[number of matching subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/)||[中等][level_2]|
-|809||[preimage size of factorial zeroes function](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/)||[困难][level_3]|
-|810||[valid tic tac toe state](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)||[中等][level_2]|
-|811||[number of subarrays with bounded maximum](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/)||[中等][level_2]|
-|812||[rotate string](https://leetcode-cn.com/problems/rotate-string/)||[简单][level_1]|
-|813||[all paths from source to target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)||[中等][level_2]|
-|814||[smallest rotation with highest score](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)||[困难][level_3]|
-|815||[champagne tower](https://leetcode-cn.com/problems/champagne-tower/)||[中等][level_2]|
-|816||[design hashset](https://leetcode-cn.com/problems/design-hashset/)||[简单][level_1]|
-|817||[design hashmap](https://leetcode-cn.com/problems/design-hashmap/)||[简单][level_1]|
-|818||[similar rgb color](https://leetcode-cn.com/problems/similar-rgb-color/)||[简单][level_1]|
-|819||[minimum swaps to make sequences increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)||[中等][level_2]|
-|820||[find eventual safe states](https://leetcode-cn.com/problems/find-eventual-safe-states/)||[中等][level_2]|
-|821||[bricks falling when hit](https://leetcode-cn.com/problems/bricks-falling-when-hit/)||[困难][level_3]|
-|822||[unique morse code words](https://leetcode-cn.com/problems/unique-morse-code-words/)||[简单][level_1]|
-|823||[split array with same average](https://leetcode-cn.com/problems/split-array-with-same-average/)||[困难][level_3]|
-|824||[number of lines to write string](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)||[简单][level_1]|
-|825||[max increase to keep city skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/)||[中等][level_2]|
-|826||[soup servings](https://leetcode-cn.com/problems/soup-servings/)||[中等][level_2]|
-|827||[expressive words](https://leetcode-cn.com/problems/expressive-words/)||[中等][level_2]|
-|828||[chalkboard xor game](https://leetcode-cn.com/problems/chalkboard-xor-game/)||[困难][level_3]|
-|829||[subdomain visit count](https://leetcode-cn.com/problems/subdomain-visit-count/)||[简单][level_1]|
-|830||[largest triangle area](https://leetcode-cn.com/problems/largest-triangle-area/)||[简单][level_1]|
-|831||[largest sum of averages](https://leetcode-cn.com/problems/largest-sum-of-averages/)||[中等][level_2]|
-|832||[binary tree pruning](https://leetcode-cn.com/problems/binary-tree-pruning/)||[中等][level_2]|
-|833||[bus routes](https://leetcode-cn.com/problems/bus-routes/)||[困难][level_3]|
-|834||[ambiguous coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)||[中等][level_2]|
-|835||[linked list components](https://leetcode-cn.com/problems/linked-list-components/)||[中等][level_2]|
-|836||[race car](https://leetcode-cn.com/problems/race-car/)||[困难][level_3]|
-|837||[most common word](https://leetcode-cn.com/problems/most-common-word/)||[简单][level_1]|
-|838||[design linked list](https://leetcode-cn.com/problems/design-linked-list/)||[中等][level_2]|
-|839||[short encoding of words](https://leetcode-cn.com/problems/short-encoding-of-words/)||[中等][level_2]|
-|841||[shortest distance to a character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)||[简单][level_1]|
-|842||[card flipping game](https://leetcode-cn.com/problems/card-flipping-game/)||[中等][level_2]|
-|843||[binary trees with factors](https://leetcode-cn.com/problems/binary-trees-with-factors/)||[中等][level_2]|
-|850||[insert into a sorted circular linked list](https://leetcode-cn.com/problems/insert-into-a-sorted-circular-linked-list/)||[中等][level_2]|
-|851||[goat latin](https://leetcode-cn.com/problems/goat-latin/)||[简单][level_1]|
-|852||[friends of appropriate ages](https://leetcode-cn.com/problems/friends-of-appropriate-ages/)||[中等][level_2]|
-|853||[most profit assigning work](https://leetcode-cn.com/problems/most-profit-assigning-work/)||[中等][level_2]|
-|854||[making a large island](https://leetcode-cn.com/problems/making-a-large-island/)||[困难][level_3]|
-|855||[unique letter string](https://leetcode-cn.com/problems/unique-letter-string/)||[困难][level_3]|
-|856||[consecutive numbers sum](https://leetcode-cn.com/problems/consecutive-numbers-sum/)||[困难][level_3]|
-|857||[positions of large groups](https://leetcode-cn.com/problems/positions-of-large-groups/)||[简单][level_1]|
-|858||[masking personal information](https://leetcode-cn.com/problems/masking-personal-information/)||[中等][level_2]|
-|859||[design circular deque](https://leetcode-cn.com/problems/design-circular-deque/)||[中等][level_2]|
-|860||[design circular queue](https://leetcode-cn.com/problems/design-circular-queue/)||[中等][level_2]|
-|861||[flipping an image](https://leetcode-cn.com/problems/flipping-an-image/)||[简单][level_1]|
-|862||[find and replace in string](https://leetcode-cn.com/problems/find-and-replace-in-string/)||[中等][level_2]|
-|863||[sum of distances in tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)||[困难][level_3]|
-|864||[image overlap](https://leetcode-cn.com/problems/image-overlap/)||[中等][level_2]|
-|865||[robot room cleaner](https://leetcode-cn.com/problems/robot-room-cleaner/)||[困难][level_3]|
-|866||[rectangle overlap](https://leetcode-cn.com/problems/rectangle-overlap/)||[简单][level_1]|
-|867||[new 21 game](https://leetcode-cn.com/problems/new-21-game/)||[中等][level_2]|
-|868||[push dominoes](https://leetcode-cn.com/problems/push-dominoes/)||[中等][level_2]|
-|869||[similar string groups](https://leetcode-cn.com/problems/similar-string-groups/)||[困难][level_3]|
-|870||[magic squares in grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)||[简单][level_1]|
-|871||[keys and rooms](https://leetcode-cn.com/problems/keys-and-rooms/)||[中等][level_2]|
-|872||[split array into fibonacci sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)|[python](https://github.com/xinsuishang/leetcode_problems/blob/master/src/python/fibonacci-number/python/fibonacci-number.py)|[中等][level_2]|
-|873||[guess the word](https://leetcode-cn.com/problems/guess-the-word/)||[困难][level_3]|
-|874||[backspace string compare](https://leetcode-cn.com/problems/backspace-string-compare/)||[简单][level_1]|
-|875||[longest mountain in array](https://leetcode-cn.com/problems/longest-mountain-in-array/)||[中等][level_2]|
-|876||[hand of straights](https://leetcode-cn.com/problems/hand-of-straights/)||[中等][level_2]|
-|877||[shortest path visiting all nodes](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/)||[困难][level_3]|
-|878||[shifting letters](https://leetcode-cn.com/problems/shifting-letters/)||[中等][level_2]|
-|879||[maximize distance to closest person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)||[简单][level_1]|
-|880||[rectangle area ii](https://leetcode-cn.com/problems/rectangle-area-ii/)||[困难][level_3]|
-|881||[loud and rich](https://leetcode-cn.com/problems/loud-and-rich/)||[中等][level_2]|
-|882||[peak index in a mountain array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)||[简单][level_1]|
-|883||[car fleet](https://leetcode-cn.com/problems/car-fleet/)||[中等][level_2]|
-|884||[k similar strings](https://leetcode-cn.com/problems/k-similar-strings/)||[困难][level_3]|
-|885||[exam room](https://leetcode-cn.com/problems/exam-room/)||[中等][level_2]|
-|886||[score of parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)||[中等][level_2]|
-|887||[minimum cost to hire k workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/)||[困难][level_3]|
-|888||[mirror reflection](https://leetcode-cn.com/problems/mirror-reflection/)||[中等][level_2]|
-|889||[buddy strings](https://leetcode-cn.com/problems/buddy-strings/)||[简单][level_1]|
-|890||[lemonade change](https://leetcode-cn.com/problems/lemonade-change/)||[简单][level_1]|
-|891||[score after flipping matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix/)||[中等][level_2]|
-|892||[shortest subarray with sum at least k](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/)||[困难][level_3]|
-|893||[all nodes distance k in binary tree](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)||[中等][level_2]|
-|894||[random pick with blacklist](https://leetcode-cn.com/problems/random-pick-with-blacklist/)||[困难][level_3]|
-|895||[shortest path to get all keys](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys/)||[困难][level_3]|
-|896||[smallest subtree with all the deepest nodes](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes/)||[中等][level_2]|
-|897||[prime palindrome](https://leetcode-cn.com/problems/prime-palindrome/)||[中等][level_2]|
-|898||[transpose matrix](https://leetcode-cn.com/problems/transpose-matrix/)||[简单][level_1]|
-|899||[binary gap](https://leetcode-cn.com/problems/binary-gap/)||[简单][level_1]|
-|900||[reordered power of 2](https://leetcode-cn.com/problems/reordered-power-of-2/)||[中等][level_2]|
-|901||[advantage shuffle](https://leetcode-cn.com/problems/advantage-shuffle/)||[中等][level_2]|
-|902||[minimum number of refueling stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)||[困难][level_3]|
-|903||[implement rand10 using rand7](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)||[中等][level_2]|
-|904||[leaf similar trees](https://leetcode-cn.com/problems/leaf-similar-trees/)||[简单][level_1]|
-|905||[length of longest fibonacci subsequence](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/)||[中等][level_2]|
-|906||[walking robot simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)||[简单][level_1]|
-|907||[koko eating bananas](https://leetcode-cn.com/problems/koko-eating-bananas/)||[中等][level_2]|
-|908||[middle of the linked list](https://leetcode-cn.com/problems/middle-of-the-linked-list/)||[简单][level_1]|
-|909||[stone game](https://leetcode-cn.com/problems/stone-game/)||[中等][level_2]|
-|910||[nth magical number](https://leetcode-cn.com/problems/nth-magical-number/)||[困难][level_3]|
-|911||[profitable schemes](https://leetcode-cn.com/problems/profitable-schemes/)||[困难][level_3]|
-|912||[random pick with weight](https://leetcode-cn.com/problems/random-pick-with-weight/)||[中等][level_2]|
-|913||[random flip matrix](https://leetcode-cn.com/problems/random-flip-matrix/)||[中等][level_2]|
-|914||[random point in non overlapping rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/)||[中等][level_2]|
-|915||[generate random point in a circle](https://leetcode-cn.com/problems/generate-random-point-in-a-circle/)||[中等][level_2]|
-|916||[decoded string at index](https://leetcode-cn.com/problems/decoded-string-at-index/)||[中等][level_2]|
-|917||[boats to save people](https://leetcode-cn.com/problems/boats-to-save-people/)||[中等][level_2]|
-|918||[reachable nodes in subdivided graph](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph/)||[困难][level_3]|
-|919||[projection area of 3d shapes](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)||[简单][level_1]|
-|920||[uncommon words from two sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)||[简单][level_1]|
-|921||[spiral matrix iii](https://leetcode-cn.com/problems/spiral-matrix-iii/)||[中等][level_2]|
-|922||[possible bipartition](https://leetcode-cn.com/problems/possible-bipartition/)||[中等][level_2]|
-|923||[super egg drop](https://leetcode-cn.com/problems/super-egg-drop/)||[困难][level_3]|
-|924||[fair candy swap](https://leetcode-cn.com/problems/fair-candy-swap/)||[简单][level_1]|
-|925||[construct binary tree from preorder and postorder traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||[中等][level_2]|
-|926||[find and replace pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/)||[中等][level_2]|
-|927||[sum of subsequence widths](https://leetcode-cn.com/problems/sum-of-subsequence-widths/)||[困难][level_3]|
-|928||[surface area of 3d shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)||[简单][level_1]|
-|929||[groups of special equivalent strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)||[简单][level_1]|
-|930||[all possible full binary trees](https://leetcode-cn.com/problems/all-possible-full-binary-trees/)||[中等][level_2]|
-|931||[maximum frequency stack](https://leetcode-cn.com/problems/maximum-frequency-stack/)||[困难][level_3]|
-|932||[monotonic array](https://leetcode-cn.com/problems/monotonic-array/)||[简单][level_1]|
-|933||[increasing order search tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)||[简单][level_1]|
-|934||[bitwise ors of subarrays](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/)||[中等][level_2]|
-|935||[orderly queue](https://leetcode-cn.com/problems/orderly-queue/)||[困难][level_3]|
-|936||[rle iterator](https://leetcode-cn.com/problems/rle-iterator/)||[中等][level_2]|
-|937||[online stock span](https://leetcode-cn.com/problems/online-stock-span/)||[中等][level_2]|
-|938||[numbers at most n given digit set](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set/)||[困难][level_3]|
-|939||[valid permutations for di sequence](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)||[困难][level_3]|
-|940||[fruit into baskets](https://leetcode-cn.com/problems/fruit-into-baskets/)||[中等][level_2]|
-|941||[sort array by parity](https://leetcode-cn.com/problems/sort-array-by-parity/)||[简单][level_1]|
-|942||[super palindromes](https://leetcode-cn.com/problems/super-palindromes/)||[困难][level_3]|
-|943||[sum of subarray minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)||[中等][level_2]|
-|944||[smallest range i](https://leetcode-cn.com/problems/smallest-range-i/)||[简单][level_1]|
-|945||[snakes and ladders](https://leetcode-cn.com/problems/snakes-and-ladders/)||[中等][level_2]|
-|946||[smallest range ii](https://leetcode-cn.com/problems/smallest-range-ii/)||[中等][level_2]|
-|947||[online election](https://leetcode-cn.com/problems/online-election/)||[中等][level_2]|
-|948||[sort an array](https://leetcode-cn.com/problems/sort-an-array/)||[中等][level_2]|
-|949||[cat and mouse](https://leetcode-cn.com/problems/cat-and-mouse/)||[困难][level_3]|
-|950||[x of a kind in a deck of cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)||[简单][level_1]|
-|951||[partition array into disjoint intervals](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/)||[中等][level_2]|
-|952||[word subsets](https://leetcode-cn.com/problems/word-subsets/)||[中等][level_2]|
-|953||[reverse only letters](https://leetcode-cn.com/problems/reverse-only-letters/)||[简单][level_1]|
-|954||[maximum sum circular subarray](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)||[中等][level_2]|
-|955||[complete binary tree inserter](https://leetcode-cn.com/problems/complete-binary-tree-inserter/)||[中等][level_2]|
-|956||[number of music playlists](https://leetcode-cn.com/problems/number-of-music-playlists/)||[困难][level_3]|
-|957||[minimum add to make parentheses valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)||[中等][level_2]|
-|958||[sort array by parity ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)||[简单][level_1]|
-|959||[3sum with multiplicity](https://leetcode-cn.com/problems/3sum-with-multiplicity/)||[中等][level_2]|
-|960||[minimize malware spread](https://leetcode-cn.com/problems/minimize-malware-spread/)||[困难][level_3]|
-|961||[long pressed name](https://leetcode-cn.com/problems/long-pressed-name/)||[简单][level_1]|
-|962||[flip string to monotone increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)||[中等][level_2]|
-|963||[three equal parts](https://leetcode-cn.com/problems/three-equal-parts/)||[困难][level_3]|
-|964||[minimize malware spread ii](https://leetcode-cn.com/problems/minimize-malware-spread-ii/)||[困难][level_3]|
-|965||[unique email addresses](https://leetcode-cn.com/problems/unique-email-addresses/)||[简单][level_1]|
-|966||[binary subarrays with sum](https://leetcode-cn.com/problems/binary-subarrays-with-sum/)||[中等][level_2]|
-|967||[minimum falling path sum](https://leetcode-cn.com/problems/minimum-falling-path-sum/)||[中等][level_2]|
-|968||[beautiful array](https://leetcode-cn.com/problems/beautiful-array/)||[中等][level_2]|
-|969||[number of recent calls](https://leetcode-cn.com/problems/number-of-recent-calls/)||[简单][level_1]|
-|971||[shortest bridge](https://leetcode-cn.com/problems/shortest-bridge/)||[中等][level_2]|
-|972||[knight dialer](https://leetcode-cn.com/problems/knight-dialer/)||[中等][level_2]|
-|973||[stamping the sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)||[困难][level_3]|
-|974||[reorder data in log files](https://leetcode-cn.com/problems/reorder-data-in-log-files/)||[简单][level_1]|
-|975||[range sum of bst](https://leetcode-cn.com/problems/range-sum-of-bst/)||[简单][level_1]|
-|976||[minimum area rectangle](https://leetcode-cn.com/problems/minimum-area-rectangle/)||[中等][level_2]|
-|977||[distinct subsequences ii](https://leetcode-cn.com/problems/distinct-subsequences-ii/)||[困难][level_3]|
-|978||[valid mountain array](https://leetcode-cn.com/problems/valid-mountain-array/)||[简单][level_1]|
-|979||[di string match](https://leetcode-cn.com/problems/di-string-match/)||[简单][level_1]|
-|980||[find the shortest superstring](https://leetcode-cn.com/problems/find-the-shortest-superstring/)||[困难][level_3]|
-|981||[delete columns to make sorted](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)||[简单][level_1]|
-|982||[minimum increment to make array unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)||[中等][level_2]|
-|983||[validate stack sequences](https://leetcode-cn.com/problems/validate-stack-sequences/)||[中等][level_2]|
-|984||[most stones removed with same row or column](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/)||[中等][level_2]|
-|985||[bag of tokens](https://leetcode-cn.com/problems/bag-of-tokens/)||[中等][level_2]|
-|986||[largest time for given digits](https://leetcode-cn.com/problems/largest-time-for-given-digits/)||[简单][level_1]|
-|987||[reveal cards in increasing order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)||[中等][level_2]|
-|988||[flip equivalent binary trees](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)||[中等][level_2]|
-|989||[largest component size by common factor](https://leetcode-cn.com/problems/largest-component-size-by-common-factor/)||[困难][level_3]|
-|990||[verifying an alien dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)||[简单][level_1]|
-|991||[array of doubled pairs](https://leetcode-cn.com/problems/array-of-doubled-pairs/)||[中等][level_2]|
-|992||[delete columns to make sorted ii](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii/)||[中等][level_2]|
-|993||[tallest billboard](https://leetcode-cn.com/problems/tallest-billboard/)||[困难][level_3]|
-|994||[prison cells after n days](https://leetcode-cn.com/problems/prison-cells-after-n-days/)||[中等][level_2]|
-|998||[check completeness of a binary tree](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/)||[中等][level_2]|
-|999||[regions cut by slashes](https://leetcode-cn.com/problems/regions-cut-by-slashes/)||[中等][level_2]|
-|1000||[delete columns to make sorted iii](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/)||[困难][level_3]|
-|1001||[n repeated element in size 2n array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)||[简单][level_1]|
-|1002||[maximum width ramp](https://leetcode-cn.com/problems/maximum-width-ramp/)||[中等][level_2]|
-|1003||[minimum area rectangle ii](https://leetcode-cn.com/problems/minimum-area-rectangle-ii/)||[中等][level_2]|
-|1004||[least operators to express number](https://leetcode-cn.com/problems/least-operators-to-express-number/)||[困难][level_3]|
-|1005||[univalued binary tree](https://leetcode-cn.com/problems/univalued-binary-tree/)||[简单][level_1]|
-|1006||[vowel spellchecker](https://leetcode-cn.com/problems/vowel-spellchecker/)||[中等][level_2]|
-|1007||[numbers with same consecutive differences](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/)||[中等][level_2]|
-|1008||[binary tree cameras](https://leetcode-cn.com/problems/binary-tree-cameras/)||[困难][level_3]|
-|1009||[pancake sorting](https://leetcode-cn.com/problems/pancake-sorting/)||[中等][level_2]|
-|1010||[powerful integers](https://leetcode-cn.com/problems/powerful-integers/)||[简单][level_1]|
-|1011||[flip binary tree to match preorder traversal](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/)||[中等][level_2]|
-|1012||[equal rational numbers](https://leetcode-cn.com/problems/equal-rational-numbers/)||[困难][level_3]|
-|1013||[fibonacci number](https://leetcode-cn.com/problems/fibonacci-number/)||[简单][level_1]|
-|1014||[k closest points to origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)||[中等][level_2]|
-|1016||[subarray sums divisible by k](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/)||[中等][level_2]|
-|1017||[odd even jump](https://leetcode-cn.com/problems/odd-even-jump/)||[困难][level_3]|
-|1018||[largest perimeter triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)||[简单][level_1]|
-|1019||[squares of a sorted array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)||[简单][level_1]|
-|1020||[longest turbulent subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/)||[中等][level_2]|
-|1021||[distribute coins in binary tree](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/)||[中等][level_2]|
-|1022||[unique paths iii](https://leetcode-cn.com/problems/unique-paths-iii/)||[困难][level_3]|
-|1023||[time based key value store](https://leetcode-cn.com/problems/time-based-key-value-store/)||[中等][level_2]|
-|1024||[triples with bitwise and equal to zero](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)||[困难][level_3]|
-|1025||[minimum cost for tickets](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)||[中等][level_2]|
-|1026||[string without aaa or bbb](https://leetcode-cn.com/problems/string-without-aaa-or-bbb/)||[中等][level_2]|
-|1027||[sum of even numbers after queries](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)||[简单][level_1]|
-|1028||[interval list intersections](https://leetcode-cn.com/problems/interval-list-intersections/)||[中等][level_2]|
-|1029||[vertical order traversal of a binary tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/)||[中等][level_2]|
-|1030||[smallest string starting from leaf](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf/)||[中等][level_2]|
-|1031||[add to array form of integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)||[简单][level_1]|
-|1032||[satisfiability of equality equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)||[中等][level_2]|
-|1033||[broken calculator](https://leetcode-cn.com/problems/broken-calculator/)||[中等][level_2]|
-|1034||[subarrays with k different integers](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)||[困难][level_3]|
-|1035||[cousins in binary tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/)||[简单][level_1]|
-|1036||[rotting oranges](https://leetcode-cn.com/problems/rotting-oranges/)||[简单][level_1]|
-|1037||[minimum number of k consecutive bit flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)||[困难][level_3]|
-|1038||[number of squareful arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)||[困难][level_3]|
-|1039||[find the town judge](https://leetcode-cn.com/problems/find-the-town-judge/)||[简单][level_1]|
-|1040||[maximum binary tree ii](https://leetcode-cn.com/problems/maximum-binary-tree-ii/)||[中等][level_2]|
-|1041||[available captures for rook](https://leetcode-cn.com/problems/available-captures-for-rook/)||[简单][level_1]|
-|1042||[minimum cost to merge stones](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/)||[困难][level_3]|
-|1043||[grid illumination](https://leetcode-cn.com/problems/grid-illumination/)||[困难][level_3]|
-|1044||[find common characters](https://leetcode-cn.com/problems/find-common-characters/)||[简单][level_1]|
-|1045||[check if word is valid after substitutions](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)||[中等][level_2]|
-|1046||[max consecutive ones iii](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)||[中等][level_2]|
-|1047||[maximize sum of array after k negations](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/)||[简单][level_1]|
-|1048||[clumsy factorial](https://leetcode-cn.com/problems/clumsy-factorial/)||[中等][level_2]|
-|1049||[minimum domino rotations for equal row](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row/)||[中等][level_2]|
-|1050||[construct binary search tree from preorder traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)||[中等][level_2]|
-|1051||[shortest way to form string](https://leetcode-cn.com/problems/shortest-way-to-form-string/)||[中等][level_2]|
-|1052||[campus bikes](https://leetcode-cn.com/problems/campus-bikes/)||[中等][level_2]|
-|1053||[minimize rounding error to meet target](https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target/)||[中等][level_2]|
-|1054||[complement of base 10 integer](https://leetcode-cn.com/problems/complement-of-base-10-integer/)||[简单][level_1]|
-|1055||[pairs of songs with total durations divisible by 60](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)||[简单][level_1]|
-|1056||[capacity to ship packages within d days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)||[中等][level_2]|
-|1057||[numbers with repeated digits](https://leetcode-cn.com/problems/numbers-with-repeated-digits/)||[困难][level_3]|
-|1058||[lexicographically smallest equivalent string](https://leetcode-cn.com/problems/lexicographically-smallest-equivalent-string/)||[中等][level_2]|
-|1059||[missing element in sorted array](https://leetcode-cn.com/problems/missing-element-in-sorted-array/)||[中等][level_2]|
-|1060||[longest repeating substring](https://leetcode-cn.com/problems/longest-repeating-substring/)||[中等][level_2]|
-|1061||[number of valid subarrays](https://leetcode-cn.com/problems/number-of-valid-subarrays/)||[困难][level_3]|
-|1062||[partition array into three parts with equal sum](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)||[简单][level_1]|
-|1063||[best sightseeing pair](https://leetcode-cn.com/problems/best-sightseeing-pair/)||[中等][level_2]|
-|1064||[smallest integer divisible by k](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k/)||[中等][level_2]|
-|1065||[binary string with substrings representing 1 to n](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n/)||[中等][level_2]|
-|1066||[fixed point](https://leetcode-cn.com/problems/fixed-point/)||[简单][level_1]|
-|1067||[campus bikes ii](https://leetcode-cn.com/problems/campus-bikes-ii/)||[中等][level_2]|
-|1068||[digit count in range](https://leetcode-cn.com/problems/digit-count-in-range/)||[困难][level_3]|
-|1069||[confusing number](https://leetcode-cn.com/problems/confusing-number/)||[简单][level_1]|
-|1070||[convert to base 2](https://leetcode-cn.com/problems/convert-to-base-2/)||[中等][level_2]|
-|1071||[binary prefix divisible by 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/)||[简单][level_1]|
-|1072||[next greater node in linked list](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/)||[中等][level_2]|
-|1073||[number of enclaves](https://leetcode-cn.com/problems/number-of-enclaves/)||[中等][level_2]|
-|1074||[high five](https://leetcode-cn.com/problems/high-five/)||[简单][level_1]|
-|1075||[index pairs of a string](https://leetcode-cn.com/problems/index-pairs-of-a-string/)||[简单][level_1]|
-|1076||[brace expansion](https://leetcode-cn.com/problems/brace-expansion/)||[中等][level_2]|
-|1077||[confusing number ii](https://leetcode-cn.com/problems/confusing-number-ii/)||[困难][level_3]|
-|1078||[remove outermost parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/)||[简单][level_1]|
-|1079||[sum of root to leaf binary numbers](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/)||[简单][level_1]|
-|1080||[camelcase matching](https://leetcode-cn.com/problems/camelcase-matching/)||[中等][level_2]|
-|1081||[video stitching](https://leetcode-cn.com/problems/video-stitching/)||[中等][level_2]|
-|1082||[sum of digits in the minimum number](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/)||[简单][level_1]|
-|1083||[two sum less than k](https://leetcode-cn.com/problems/two-sum-less-than-k/)||[简单][level_1]|
-|1084||[find k length substrings with no repeated characters](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters/)||[中等][level_2]|
-|1085||[the earliest moment when everyone become friends](https://leetcode-cn.com/problems/the-earliest-moment-when-everyone-become-friends/)||[中等][level_2]|
-|1086||[divisor game](https://leetcode-cn.com/problems/divisor-game/)||[简单][level_1]|
-|1087||[longest arithmetic sequence](https://leetcode-cn.com/problems/longest-arithmetic-sequence/)||[中等][level_2]|
-|1088||[number of days in a month](https://leetcode-cn.com/problems/number-of-days-in-a-month/)||[简单][level_1]|
-|1089||[remove vowels from a string](https://leetcode-cn.com/problems/remove-vowels-from-a-string/)||[简单][level_1]|
-|1090||[armstrong number](https://leetcode-cn.com/problems/armstrong-number/)||[简单][level_1]|
-|1091||[maximum average subtree](https://leetcode-cn.com/problems/maximum-average-subtree/)||[中等][level_2]|
-|1092||[maximum difference between node and ancestor](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/)||[中等][level_2]|
-|1093||[recover a tree from preorder traversal](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)||[困难][level_3]|
-|1094||[matrix cells in distance order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)||[简单][level_1]|
-|1095||[two city scheduling](https://leetcode-cn.com/problems/two-city-scheduling/)||[简单][level_1]|
-|1096||[maximum sum of two non overlapping subarrays](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)||[中等][level_2]|
-|1097||[stream of characters](https://leetcode-cn.com/problems/stream-of-characters/)||[困难][level_3]|
-|1098||[largest unique number](https://leetcode-cn.com/problems/largest-unique-number/)||[简单][level_1]|
-|1099||[path with maximum minimum value](https://leetcode-cn.com/problems/path-with-maximum-minimum-value/)||[中等][level_2]|
-|1100||[connecting cities with minimum cost](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost/)||[中等][level_2]|
-|1101||[parallel courses](https://leetcode-cn.com/problems/parallel-courses/)||[困难][level_3]|
-|1102||[check if a number is majority element in a sorted array](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)||[简单][level_1]|
-|1103||[moving stones until consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive/)||[简单][level_1]|
-|1104||[coloring a border](https://leetcode-cn.com/problems/coloring-a-border/)||[中等][level_2]|
-|1105||[uncrossed lines](https://leetcode-cn.com/problems/uncrossed-lines/)||[中等][level_2]|
-|1106||[escape a large maze](https://leetcode-cn.com/problems/escape-a-large-maze/)||[困难][level_3]|
-|1107||[minimum swaps to group all 1s together](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together/)||[中等][level_2]|
-|1108||[analyze user website visit pattern](https://leetcode-cn.com/problems/analyze-user-website-visit-pattern/)||[中等][level_2]|
-|1111||[minimum score triangulation of polygon](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon/)||[中等][level_2]|
-|1112||[find words that can be formed by characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)||[简单][level_1]|
-|1113||[moving stones until consecutive ii](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii/)||[中等][level_2]|
-|1114||[binary search tree to greater sum tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/)||[中等][level_2]|
-|1115||[valid boomerang](https://leetcode-cn.com/problems/valid-boomerang/)||[简单][level_1]|
-|1116||[maximum level sum of a binary tree](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/)||[中等][level_2]|
-|1117||[as far from land as possible](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)||[中等][level_2]|
-|1118||[divide array into increasing sequences](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences/)||[困难][level_3]|
-|1119||[robot bounded in circle](https://leetcode-cn.com/problems/robot-bounded-in-circle/)||[中等][level_2]|
-|1120||[flower planting with no adjacent](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent/)||[简单][level_1]|
-|1121||[partition array for maximum sum](https://leetcode-cn.com/problems/partition-array-for-maximum-sum/)||[中等][level_2]|
-|1122||[longest duplicate substring](https://leetcode-cn.com/problems/longest-duplicate-substring/)||[困难][level_3]|
-|1123||[single row keyboard](https://leetcode-cn.com/problems/single-row-keyboard/)||[简单][level_1]|
-|1124||[string transforms into another string](https://leetcode-cn.com/problems/string-transforms-into-another-string/)||[困难][level_3]|
-|1125||[design file system](https://leetcode-cn.com/problems/design-file-system/)||[中等][level_2]|
-|1126||[minimum cost to connect sticks](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks/)||[中等][level_2]|
-|1127||[last stone weight](https://leetcode-cn.com/problems/last-stone-weight/)||[简单][level_1]|
-|1128||[remove all adjacent duplicates in string](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)||[简单][level_1]|
-|1129||[longest string chain](https://leetcode-cn.com/problems/longest-string-chain/)||[中等][level_2]|
-|1130||[last stone weight ii](https://leetcode-cn.com/problems/last-stone-weight-ii/)||[中等][level_2]|
-|1131||[count substrings with only one distinct letter](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter/)||[简单][level_1]|
-|1132||[before and after puzzle](https://leetcode-cn.com/problems/before-and-after-puzzle/)||[中等][level_2]|
-|1133||[last substring in lexicographical order](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order/)||[困难][level_3]|
-|1134||[shortest distance to target color](https://leetcode-cn.com/problems/shortest-distance-to-target-color/)||[中等][level_2]|
-|1135||[customers who bought all products](https://leetcode-cn.com/problems/customers-who-bought-all-products/)||[中等][level_2]|
-|1136||[actors and directors who cooperated at least three times](https://leetcode-cn.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)||[简单][level_1]|
-|1137||[height checker](https://leetcode-cn.com/problems/height-checker/)||[简单][level_1]|
-|1138||[grumpy bookstore owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)||[中等][level_2]|
-|1139||[previous permutation with one swap](https://leetcode-cn.com/problems/previous-permutation-with-one-swap/)||[中等][level_2]|
-|1140||[distant barcodes](https://leetcode-cn.com/problems/distant-barcodes/)||[中等][level_2]|
-|1141||[how many apples can you put into the basket](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/)||[简单][level_1]|
-|1142||[minimum knight moves](https://leetcode-cn.com/problems/minimum-knight-moves/)||[中等][level_2]|
-|1143||[find smallest common element in all rows](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows/)||[中等][level_2]|
-|1144||[optimize water distribution in a village](https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village/)||[困难][level_3]|
-|1145||[number of submatrices that sum to target](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/)||[困难][level_3]|
-|1146||[greatest common divisor of strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)||[简单][level_1]|
-|1147||[flip columns for maximum number of equal rows](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)||[中等][level_2]|
-|1148||[adding two negabinary numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)||[中等][level_2]|
-|1149||[intersection of three sorted arrays](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays/)||[简单][level_1]|
-|1150||[two sum bsts](https://leetcode-cn.com/problems/two-sum-bsts/)||[中等][level_2]|
-|1151||[stepping numbers](https://leetcode-cn.com/problems/stepping-numbers/)||[中等][level_2]|
-|1152||[maximum number of ones](https://leetcode-cn.com/problems/maximum-number-of-ones/)||[困难][level_3]|
-|1153||[product sales analysis i](https://leetcode-cn.com/problems/product-sales-analysis-i/)||[简单][level_1]|
-|1154||[product sales analysis ii](https://leetcode-cn.com/problems/product-sales-analysis-ii/)||[简单][level_1]|
-|1155||[product sales analysis iii](https://leetcode-cn.com/problems/product-sales-analysis-iii/)||[中等][level_2]|
-|1156||[occurrences after bigram](https://leetcode-cn.com/problems/occurrences-after-bigram/)||[简单][level_1]|
-|1157||[insufficient nodes in root to leaf paths](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths/)||[中等][level_2]|
-|1159||[smallest subsequence of distinct characters](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/)||[中等][level_2]|
-|1160||[letter tile possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/)||[中等][level_2]|
-|1161||[project employees i](https://leetcode-cn.com/problems/project-employees-i/)||[简单][level_1]|
-|1162||[project employees ii](https://leetcode-cn.com/problems/project-employees-ii/)||[简单][level_1]|
-|1163||[project employees iii](https://leetcode-cn.com/problems/project-employees-iii/)||[中等][level_2]|
-|1164||[missing number in arithmetic progression](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression/)||[简单][level_1]|
-|1165||[meeting scheduler](https://leetcode-cn.com/problems/meeting-scheduler/)||[中等][level_2]|
-|1166||[toss strange coins](https://leetcode-cn.com/problems/toss-strange-coins/)||[中等][level_2]|
-|1167||[minimum time to build blocks](https://leetcode-cn.com/problems/minimum-time-to-build-blocks/)||[困难][level_3]|
-|1168||[duplicate zeros](https://leetcode-cn.com/problems/duplicate-zeros/)||[简单][level_1]|
-|1169||[largest values from labels](https://leetcode-cn.com/problems/largest-values-from-labels/)||[中等][level_2]|
-|1170||[shortest common supersequence](https://leetcode-cn.com/problems/shortest-common-supersequence/)||[困难][level_3]|
-|1171||[shortest path in binary matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/)||[中等][level_2]|
-|1172||[sales analysis i](https://leetcode-cn.com/problems/sales-analysis-i/)||[简单][level_1]|
-|1173||[sales analysis ii](https://leetcode-cn.com/problems/sales-analysis-ii/)||[简单][level_1]|
-|1174||[sales analysis iii](https://leetcode-cn.com/problems/sales-analysis-iii/)||[简单][level_1]|
-|1175||[array transformation](https://leetcode-cn.com/problems/array-transformation/)||[简单][level_1]|
-|1176||[design a leaderboard](https://leetcode-cn.com/problems/design-a-leaderboard/)||[中等][level_2]|
-|1177||[tree diameter](https://leetcode-cn.com/problems/tree-diameter/)||[中等][level_2]|
-|1178||[valid palindrome iii](https://leetcode-cn.com/problems/valid-palindrome-iii/)||[困难][level_3]|
-|1179||[game play analysis i](https://leetcode-cn.com/problems/game-play-analysis-i/)||[简单][level_1]|
-|1180||[game play analysis ii](https://leetcode-cn.com/problems/game-play-analysis-ii/)||[简单][level_1]|
-|1181||[game play analysis iii](https://leetcode-cn.com/problems/game-play-analysis-iii/)||[中等][level_2]|
-|1182||[game play analysis iv](https://leetcode-cn.com/problems/game-play-analysis-iv/)||[中等][level_2]|
-|1183||[statistics from a large sample](https://leetcode-cn.com/problems/statistics-from-a-large-sample/)||[中等][level_2]|
-|1184||[car pooling](https://leetcode-cn.com/problems/car-pooling/)||[中等][level_2]|
-|1185||[find in mountain array](https://leetcode-cn.com/problems/find-in-mountain-array/)||[困难][level_3]|
-|1186||[building h2o](https://leetcode-cn.com/problems/building-h2o/)||[中等][level_2]|
-|1187||[print foobar alternately](https://leetcode-cn.com/problems/print-foobar-alternately/)||[中等][level_2]|
-|1188||[brace expansion ii](https://leetcode-cn.com/problems/brace-expansion-ii/)||[困难][level_3]|
-|1189||[encode number](https://leetcode-cn.com/problems/encode-number/)||[中等][level_2]|
-|1190||[smallest common region](https://leetcode-cn.com/problems/smallest-common-region/)||[中等][level_2]|
-|1191||[synonymous sentences](https://leetcode-cn.com/problems/synonymous-sentences/)||[中等][level_2]|
-|1192||[divide chocolate](https://leetcode-cn.com/problems/divide-chocolate/)||[困难][level_3]|
-|1193||[game play analysis v](https://leetcode-cn.com/problems/game-play-analysis-v/)||[困难][level_3]|
-|1194||[path in zigzag labelled binary tree](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)||[中等][level_2]|
-|1195||[distribute candies to people](https://leetcode-cn.com/problems/distribute-candies-to-people/)||[简单][level_1]|
-|1196||[filling bookcase shelves](https://leetcode-cn.com/problems/filling-bookcase-shelves/)||[中等][level_2]|
-|1197||[parsing a boolean expression](https://leetcode-cn.com/problems/parsing-a-boolean-expression/)||[困难][level_3]|
-|1198||[unpopular books](https://leetcode-cn.com/problems/unpopular-books/)||[中等][level_2]|
-|1202||[palindrome removal](https://leetcode-cn.com/problems/palindrome-removal/)||[困难][level_3]|
-|1203||[print in order](https://leetcode-cn.com/problems/print-in-order/)||[简单][level_1]|
-|1204||[new users daily count](https://leetcode-cn.com/problems/new-users-daily-count/)||[中等][level_2]|
-|1205||[defanging an ip address](https://leetcode-cn.com/problems/defanging-an-ip-address/)||[简单][level_1]|
-|1206||[corporate flight bookings](https://leetcode-cn.com/problems/corporate-flight-bookings/)||[中等][level_2]|
-|1207||[delete nodes and return forest](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/)||[中等][level_2]|
-|1208||[maximum nesting depth of two valid parentheses strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)||[中等][level_2]|
-|1209||[design bounded blocking queue](https://leetcode-cn.com/problems/design-bounded-blocking-queue/)||[中等][level_2]|
-|1213||[handshakes that dont cross](https://leetcode-cn.com/problems/handshakes-that-dont-cross/)||[困难][level_3]|
-|1214||[highest grade for each student](https://leetcode-cn.com/problems/highest-grade-for-each-student/)||[中等][level_2]|
-|1215||[reported posts](https://leetcode-cn.com/problems/reported-posts/)||[简单][level_1]|
-|1216||[print zero even odd](https://leetcode-cn.com/problems/print-zero-even-odd/)||[中等][level_2]|
-|1217||[relative sort array](https://leetcode-cn.com/problems/relative-sort-array/)||[简单][level_1]|
-|1218||[lowest common ancestor of deepest leaves](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/)||[中等][level_2]|
-|1219||[longest well performing interval](https://leetcode-cn.com/problems/longest-well-performing-interval/)||[中等][level_2]|
-|1220||[smallest sufficient team](https://leetcode-cn.com/problems/smallest-sufficient-team/)||[困难][level_3]|
-|1225||[active businesses](https://leetcode-cn.com/problems/active-businesses/)||[中等][level_2]|
-|1226||[user purchase platform](https://leetcode-cn.com/problems/user-purchase-platform/)||[困难][level_3]|
-|1227||[number of equivalent domino pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/)||[简单][level_1]|
-|1228||[minimum cost tree from leaf values](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values/)||[中等][level_2]|
-|1229||[shortest path with alternating colors](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors/)||[中等][level_2]|
-|1230||[maximum of absolute value expression](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression/)||[中等][level_2]|
-|1236||[n th tribonacci number](https://leetcode-cn.com/problems/n-th-tribonacci-number/)||[简单][level_1]|
-|1237||[reported posts ii](https://leetcode-cn.com/problems/reported-posts-ii/)||[中等][level_2]|
-|1238||[alphabet board path](https://leetcode-cn.com/problems/alphabet-board-path/)||[中等][level_2]|
-|1239||[largest 1 bordered square](https://leetcode-cn.com/problems/largest-1-bordered-square/)||[中等][level_2]|
-|1240||[stone game ii](https://leetcode-cn.com/problems/stone-game-ii/)||[中等][level_2]|
-|1245||[user activity for the past 30 days i](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-i/)||[简单][level_1]|
-|1246||[user activity for the past 30 days ii](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-ii/)||[简单][level_1]|
-|1247||[decrease elements to make array zigzag](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/)||[中等][level_2]|
-|1248||[binary tree coloring game](https://leetcode-cn.com/problems/binary-tree-coloring-game/)||[中等][level_2]|
-|1249||[snapshot array](https://leetcode-cn.com/problems/snapshot-array/)||[中等][level_2]|
-|1250||[longest common subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)||[中等][level_2]|
-|1251||[longest chunked palindrome decomposition](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition/)||[困难][level_3]|
-|1258||[article views i](https://leetcode-cn.com/problems/article-views-i/)||[简单][level_1]|
-|1259||[article views ii](https://leetcode-cn.com/problems/article-views-ii/)||[中等][level_2]|
-|1260||[day of the year](https://leetcode-cn.com/problems/day-of-the-year/)||[简单][level_1]|
-|1261||[swap for longest repeated character substring](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring/)||[中等][level_2]|
-|1262||[online majority element in subarray](https://leetcode-cn.com/problems/online-majority-element-in-subarray/)||[困难][level_3]|
-|1263||[number of dice rolls with target sum](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum/)||[中等][level_2]|
-|1267||[remove zero sum consecutive nodes from linked list](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)||[中等][level_2]|
-|1268||[market analysis i](https://leetcode-cn.com/problems/market-analysis-i/)||[中等][level_2]|
-|1269||[market analysis ii](https://leetcode-cn.com/problems/market-analysis-ii/)||[困难][level_3]|
-|1270||[dinner plate stacks](https://leetcode-cn.com/problems/dinner-plate-stacks/)||[困难][level_3]|
-|1271||[web crawler](https://leetcode-cn.com/problems/web-crawler/)||[中等][level_2]|
-|1272||[invalid transactions](https://leetcode-cn.com/problems/invalid-transactions/)||[中等][level_2]|
-|1273||[compare strings by frequency of the smallest character](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/)||[简单][level_1]|
-|1278||[product price at a given date](https://leetcode-cn.com/problems/product-price-at-a-given-date/)||[中等][level_2]|
-|1279||[prime arrangements](https://leetcode-cn.com/problems/prime-arrangements/)||[简单][level_1]|
-|1280||[diet plan performance](https://leetcode-cn.com/problems/diet-plan-performance/)||[简单][level_1]|
-|1281||[can make palindrome from substring](https://leetcode-cn.com/problems/can-make-palindrome-from-substring/)||[中等][level_2]|
-|1282||[number of valid words for each puzzle](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/)||[困难][level_3]|
-|1287||[distance between bus stops](https://leetcode-cn.com/problems/distance-between-bus-stops/)||[简单][level_1]|
-|1288||[maximum subarray sum with one deletion](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/)||[中等][level_2]|
-|1289||[day of the week](https://leetcode-cn.com/problems/day-of-the-week/)||[简单][level_1]|
-|1290||[make array strictly increasing](https://leetcode-cn.com/problems/make-array-strictly-increasing/)||[困难][level_3]|
-|1291||[immediate food delivery i](https://leetcode-cn.com/problems/immediate-food-delivery-i/)||[简单][level_1]|
-|1292||[immediate food delivery ii](https://leetcode-cn.com/problems/immediate-food-delivery-ii/)||[中等][level_2]|
-|1297||[maximum number of balloons](https://leetcode-cn.com/problems/maximum-number-of-balloons/)||[简单][level_1]|
-|1298||[reverse substrings between each pair of parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)||[中等][level_2]|
-|1299||[k concatenation maximum sum](https://leetcode-cn.com/problems/k-concatenation-maximum-sum/)||[中等][level_2]|
-|1300||[critical connections in a network](https://leetcode-cn.com/problems/critical-connections-in-a-network/)||[困难][level_3]|
-|1301||[reformat department table](https://leetcode-cn.com/problems/reformat-department-table/)||[简单][level_1]|
-|1306||[minimum absolute difference](https://leetcode-cn.com/problems/minimum-absolute-difference/)||[简单][level_1]|
-|1307||[ugly number iii](https://leetcode-cn.com/problems/ugly-number-iii/)||[中等][level_2]|
-|1308||[smallest string with swaps](https://leetcode-cn.com/problems/smallest-string-with-swaps/)||[中等][level_2]|
-|1309||[sort items by groups respecting dependencies](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)||[困难][level_3]|
-|1316||[fizz buzz multithreaded](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/)||[中等][level_2]|
-|1317||[monthly transactions i](https://leetcode-cn.com/problems/monthly-transactions-i/)||[中等][level_2]|
-|1318||[tournament winners](https://leetcode-cn.com/problems/tournament-winners/)||[困难][level_3]|
-|1319||[unique number of occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/)||[简单][level_1]|
-|1320||[remove all adjacent duplicates in string ii](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/)||[中等][level_2]|
-|1321||[get equal substrings within budget](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/)||[中等][level_2]|
-|1322||[minimum moves to reach target with rotations](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations/)||[困难][level_3]|
-|1327||[last person to fit in the elevator](https://leetcode-cn.com/problems/last-person-to-fit-in-the-elevator/)||[中等][level_2]|
-|1328||[monthly transactions ii](https://leetcode-cn.com/problems/monthly-transactions-ii/)||[中等][level_2]|
-|1329||[play with chips](https://leetcode-cn.com/problems/play-with-chips/)||[简单][level_1]|
-|1330||[longest arithmetic subsequence of given difference](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)||[中等][level_2]|
-|1331||[path with maximum gold](https://leetcode-cn.com/problems/path-with-maximum-gold/)||[中等][level_2]|
-|1332||[count vowels permutation](https://leetcode-cn.com/problems/count-vowels-permutation/)||[困难][level_3]|
-|1337||[design skiplist](https://leetcode-cn.com/problems/design-skiplist/)||[困难][level_3]|
-|1338||[queries quality and percentage](https://leetcode-cn.com/problems/queries-quality-and-percentage/)||[简单][level_1]|
-|1339||[team scores in football tournament](https://leetcode-cn.com/problems/team-scores-in-football-tournament/)||[中等][level_2]|
-|1340||[the dining philosophers](https://leetcode-cn.com/problems/the-dining-philosophers/)||[中等][level_2]|
-|1341||[split a string in balanced strings](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)||[简单][level_1]|
-|1342||[queens that can attack the king](https://leetcode-cn.com/problems/queens-that-can-attack-the-king/)||[中等][level_2]|
-|1343||[dice roll simulation](https://leetcode-cn.com/problems/dice-roll-simulation/)||[中等][level_2]|
-|1344||[maximum equal frequency](https://leetcode-cn.com/problems/maximum-equal-frequency/)||[困难][level_3]|
-|1349||[check if it is a straight line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/)||[简单][level_1]|
-|1350||[remove sub folders from the filesystem](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem/)||[中等][level_2]|
-|1351||[replace the substring for balanced string](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)||[中等][level_2]|
-|1352||[maximum profit in job scheduling](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling/)||[困难][level_3]|
-|1357||[report contiguous dates](https://leetcode-cn.com/problems/report-contiguous-dates/)||[困难][level_3]|
-|1358||[find positive integer solution for a given equation](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/)||[简单][level_1]|
-|1359||[circular permutation in binary representation](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/)||[中等][level_2]|
-|1360||[maximum length of a concatenated string with unique characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)||[中等][level_2]|
-|1361||[tiling a rectangle with the fewest squares](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares/)||[困难][level_3]|
-|1362||[airplane seat assignment probability](https://leetcode-cn.com/problems/airplane-seat-assignment-probability/)||[中等][level_2]|
-|1368||[web crawler multithreaded](https://leetcode-cn.com/problems/web-crawler-multithreaded/)||[中等][level_2]|
-|1369||[minimum swaps to make strings equal](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/)||[中等][level_2]|
-|1370||[count number of nice subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)||[中等][level_2]|
-|1371||[minimum remove to make valid parentheses](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)||[中等][level_2]|
-|1372||[check if it is a good array](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/)||[困难][level_3]|
-|1377||[number of comments per post](https://leetcode-cn.com/problems/number-of-comments-per-post/)||[简单][level_1]|
-|1378||[cells with odd values in a matrix](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/)||[简单][level_1]|
-|1379||[reconstruct a 2 row binary matrix](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/)||[中等][level_2]|
-|1380||[number of closed islands](https://leetcode-cn.com/problems/number-of-closed-islands/)||[中等][level_2]|
-|1381||[maximum score words formed by letters](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters/)||[困难][level_3]|
-|1386||[shift 2d grid](https://leetcode-cn.com/problems/shift-2d-grid/)||[简单][level_1]|
-|1387||[find elements in a contaminated binary tree](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/)||[中等][level_2]|
-|1388||[greatest sum divisible by three](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)||[中等][level_2]|
-|1389||[minimum moves to move a box to their target location](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)||[困难][level_3]|
-|1390||[average selling price](https://leetcode-cn.com/problems/average-selling-price/)||[简单][level_1]|
-|1395||[minimum time visiting all points](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/)||[简单][level_1]|
-|1396||[count servers that communicate](https://leetcode-cn.com/problems/count-servers-that-communicate/)||[中等][level_2]|
-|1397||[search suggestions system](https://leetcode-cn.com/problems/search-suggestions-system/)||[中等][level_2]|
-|1398||[number of ways to stay in the same place after some steps](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)||[困难][level_3]|
-|1399||[page recommendations](https://leetcode-cn.com/problems/page-recommendations/)||[中等][level_2]|
-|1404||[print immutable linked list in reverse](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse/)||[中等][level_2]|
-|1405||[all people report to the given manager](https://leetcode-cn.com/problems/all-people-report-to-the-given-manager/)||[中等][level_2]|
-|100092||[deep dark fraction](https://leetcode-cn.com/problems/deep-dark-fraction/)||[简单][level_1]|
-|100093||[broken board dominoes](https://leetcode-cn.com/problems/broken-board-dominoes/)||[困难][level_3]|
-|100094||[coin bonus](https://leetcode-cn.com/problems/coin-bonus/)||[困难][level_3]|
-|100096||[programmable robot](https://leetcode-cn.com/problems/programmable-robot/)||[中等][level_2]|
-|100107||[guess numbers](https://leetcode-cn.com/problems/guess-numbers/)||[简单][level_1]|
+|742||[closest leaf in a binary tree](https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree/)||[中等][level_2]|
+|743||[network delay time](https://leetcode-cn.com/problems/network-delay-time/)||[中等][level_2]|
+|744||[find smallest letter greater than target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)||[简单][level_1]|
+|745||[prefix and suffix search](https://leetcode-cn.com/problems/prefix-and-suffix-search/)||[困难][level_3]|
+|746||[min cost climbing stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)||[简单][level_1]|
+|747||[largest number at least twice of others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)||[简单][level_1]|
+|748||[shortest completing word](https://leetcode-cn.com/problems/shortest-completing-word/)||[简单][level_1]|
+|749||[contain virus](https://leetcode-cn.com/problems/contain-virus/)||[困难][level_3]|
+|750||[number of corner rectangles](https://leetcode-cn.com/problems/number-of-corner-rectangles/)||[中等][level_2]|
+|751||[ip to cidr](https://leetcode-cn.com/problems/ip-to-cidr/)||[简单][level_1]|
+|752||[open the lock](https://leetcode-cn.com/problems/open-the-lock/)||[中等][level_2]|
+|753||[cracking the safe](https://leetcode-cn.com/problems/cracking-the-safe/)||[困难][level_3]|
+|754||[reach a number](https://leetcode-cn.com/problems/reach-a-number/)||[简单][level_1]|
+|755||[pour water](https://leetcode-cn.com/problems/pour-water/)||[中等][level_2]|
+|756||[pyramid transition matrix](https://leetcode-cn.com/problems/pyramid-transition-matrix/)||[中等][level_2]|
+|757||[set intersection size at least two](https://leetcode-cn.com/problems/set-intersection-size-at-least-two/)||[困难][level_3]|
+|758||[bold words in string](https://leetcode-cn.com/problems/bold-words-in-string/)||[简单][level_1]|
+|759||[employee free time](https://leetcode-cn.com/problems/employee-free-time/)||[困难][level_3]|
+|760||[find anagram mappings](https://leetcode-cn.com/problems/find-anagram-mappings/)||[简单][level_1]|
+|761||[special binary string](https://leetcode-cn.com/problems/special-binary-string/)||[困难][level_3]|
+|762||[prime number of set bits in binary representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/)||[简单][level_1]|
+|763||[partition labels](https://leetcode-cn.com/problems/partition-labels/)||[中等][level_2]|
+|764||[largest plus sign](https://leetcode-cn.com/problems/largest-plus-sign/)||[中等][level_2]|
+|765||[couples holding hands](https://leetcode-cn.com/problems/couples-holding-hands/)||[困难][level_3]|
+|766||[toeplitz matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)||[简单][level_1]|
+|767||[reorganize string](https://leetcode-cn.com/problems/reorganize-string/)||[中等][level_2]|
+|768||[max chunks to make sorted ii](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/)||[困难][level_3]|
+|769||[max chunks to make sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)||[中等][level_2]|
+|770||[basic calculator iv](https://leetcode-cn.com/problems/basic-calculator-iv/)||[困难][level_3]|
+|771||[jewels and stones](https://leetcode-cn.com/problems/jewels-and-stones/)||[简单][level_1]|
+|772||[basic calculator iii](https://leetcode-cn.com/problems/basic-calculator-iii/)||[困难][level_3]|
+|773||[sliding puzzle](https://leetcode-cn.com/problems/sliding-puzzle/)||[困难][level_3]|
+|774||[minimize max distance to gas station](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station/)||[困难][level_3]|
+|775||[global and local inversions](https://leetcode-cn.com/problems/global-and-local-inversions/)||[中等][level_2]|
+|776||[split bst](https://leetcode-cn.com/problems/split-bst/)||[中等][level_2]|
+|777||[swap adjacent in lr string](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string/)||[中等][level_2]|
+|778||[swim in rising water](https://leetcode-cn.com/problems/swim-in-rising-water/)||[困难][level_3]|
+|779||[k th symbol in grammar](https://leetcode-cn.com/problems/k-th-symbol-in-grammar/)||[中等][level_2]|
+|780||[reaching points](https://leetcode-cn.com/problems/reaching-points/)||[困难][level_3]|
+|781||[rabbits in forest](https://leetcode-cn.com/problems/rabbits-in-forest/)||[中等][level_2]|
+|782||[transform to chessboard](https://leetcode-cn.com/problems/transform-to-chessboard/)||[困难][level_3]|
+|783||[minimum distance between bst nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)||[简单][level_1]|
+|784||[letter case permutation](https://leetcode-cn.com/problems/letter-case-permutation/)||[简单][level_1]|
+|785||[is graph bipartite](https://leetcode-cn.com/problems/is-graph-bipartite/)||[中等][level_2]|
+|786||[k th smallest prime fraction](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/)||[困难][level_3]|
+|787||[cheapest flights within k stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/)||[中等][level_2]|
+|788||[rotated digits](https://leetcode-cn.com/problems/rotated-digits/)||[简单][level_1]|
+|789||[escape the ghosts](https://leetcode-cn.com/problems/escape-the-ghosts/)||[中等][level_2]|
+|790||[domino and tromino tiling](https://leetcode-cn.com/problems/domino-and-tromino-tiling/)||[中等][level_2]|
+|791||[custom sort string](https://leetcode-cn.com/problems/custom-sort-string/)||[中等][level_2]|
+|792||[number of matching subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/)||[中等][level_2]|
+|793||[preimage size of factorial zeroes function](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/)||[困难][level_3]|
+|794||[valid tic tac toe state](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/)||[中等][level_2]|
+|795||[number of subarrays with bounded maximum](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/)||[中等][level_2]|
+|796||[rotate string](https://leetcode-cn.com/problems/rotate-string/)||[简单][level_1]|
+|797||[all paths from source to target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)||[中等][level_2]|
+|798||[smallest rotation with highest score](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)||[困难][level_3]|
+|799||[champagne tower](https://leetcode-cn.com/problems/champagne-tower/)||[中等][level_2]|
+|800||[similar rgb color](https://leetcode-cn.com/problems/similar-rgb-color/)||[简单][level_1]|
+|801||[minimum swaps to make sequences increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/)||[中等][level_2]|
+|802||[find eventual safe states](https://leetcode-cn.com/problems/find-eventual-safe-states/)||[中等][level_2]|
+|803||[bricks falling when hit](https://leetcode-cn.com/problems/bricks-falling-when-hit/)||[困难][level_3]|
+|804||[unique morse code words](https://leetcode-cn.com/problems/unique-morse-code-words/)||[简单][level_1]|
+|805||[split array with same average](https://leetcode-cn.com/problems/split-array-with-same-average/)||[困难][level_3]|
+|806||[number of lines to write string](https://leetcode-cn.com/problems/number-of-lines-to-write-string/)||[简单][level_1]|
+|807||[max increase to keep city skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/)||[中等][level_2]|
+|808||[soup servings](https://leetcode-cn.com/problems/soup-servings/)||[中等][level_2]|
+|809||[expressive words](https://leetcode-cn.com/problems/expressive-words/)||[中等][level_2]|
+|810||[chalkboard xor game](https://leetcode-cn.com/problems/chalkboard-xor-game/)||[困难][level_3]|
+|811||[subdomain visit count](https://leetcode-cn.com/problems/subdomain-visit-count/)||[简单][level_1]|
+|812||[largest triangle area](https://leetcode-cn.com/problems/largest-triangle-area/)||[简单][level_1]|
+|813||[largest sum of averages](https://leetcode-cn.com/problems/largest-sum-of-averages/)||[中等][level_2]|
+|814||[binary tree pruning](https://leetcode-cn.com/problems/binary-tree-pruning/)||[中等][level_2]|
+|815||[bus routes](https://leetcode-cn.com/problems/bus-routes/)||[困难][level_3]|
+|816||[ambiguous coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates/)||[中等][level_2]|
+|817||[linked list components](https://leetcode-cn.com/problems/linked-list-components/)||[中等][level_2]|
+|818||[race car](https://leetcode-cn.com/problems/race-car/)||[困难][level_3]|
+|819||[most common word](https://leetcode-cn.com/problems/most-common-word/)||[简单][level_1]|
+|820||[short encoding of words](https://leetcode-cn.com/problems/short-encoding-of-words/)||[中等][level_2]|
+|821||[shortest distance to a character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)||[简单][level_1]|
+|822||[card flipping game](https://leetcode-cn.com/problems/card-flipping-game/)||[中等][level_2]|
+|823||[binary trees with factors](https://leetcode-cn.com/problems/binary-trees-with-factors/)||[中等][level_2]|
+|824||[goat latin](https://leetcode-cn.com/problems/goat-latin/)||[简单][level_1]|
+|825||[friends of appropriate ages](https://leetcode-cn.com/problems/friends-of-appropriate-ages/)||[中等][level_2]|
+|826||[most profit assigning work](https://leetcode-cn.com/problems/most-profit-assigning-work/)||[中等][level_2]|
+|827||[making a large island](https://leetcode-cn.com/problems/making-a-large-island/)||[困难][level_3]|
+|828||[unique letter string](https://leetcode-cn.com/problems/unique-letter-string/)||[困难][level_3]|
+|829||[consecutive numbers sum](https://leetcode-cn.com/problems/consecutive-numbers-sum/)||[困难][level_3]|
+|830||[positions of large groups](https://leetcode-cn.com/problems/positions-of-large-groups/)||[简单][level_1]|
+|831||[masking personal information](https://leetcode-cn.com/problems/masking-personal-information/)||[中等][level_2]|
+|832||[flipping an image](https://leetcode-cn.com/problems/flipping-an-image/)||[简单][level_1]|
+|833||[find and replace in string](https://leetcode-cn.com/problems/find-and-replace-in-string/)||[中等][level_2]|
+|834||[sum of distances in tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)||[困难][level_3]|
+|835||[image overlap](https://leetcode-cn.com/problems/image-overlap/)||[中等][level_2]|
+|836||[rectangle overlap](https://leetcode-cn.com/problems/rectangle-overlap/)||[简单][level_1]|
+|837||[new 21 game](https://leetcode-cn.com/problems/new-21-game/)||[中等][level_2]|
+|838||[push dominoes](https://leetcode-cn.com/problems/push-dominoes/)||[中等][level_2]|
+|839||[similar string groups](https://leetcode-cn.com/problems/similar-string-groups/)||[困难][level_3]|
+|840||[magic squares in grid](https://leetcode-cn.com/problems/magic-squares-in-grid/)||[简单][level_1]|
+|841||[keys and rooms](https://leetcode-cn.com/problems/keys-and-rooms/)||[中等][level_2]|
+|842||[split array into fibonacci sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)||[中等][level_2]|
+|843||[guess the word](https://leetcode-cn.com/problems/guess-the-word/)||[困难][level_3]|
+|844||[backspace string compare](https://leetcode-cn.com/problems/backspace-string-compare/)||[简单][level_1]|
+|845||[longest mountain in array](https://leetcode-cn.com/problems/longest-mountain-in-array/)||[中等][level_2]|
+|846||[hand of straights](https://leetcode-cn.com/problems/hand-of-straights/)||[中等][level_2]|
+|847||[shortest path visiting all nodes](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/)||[困难][level_3]|
+|848||[shifting letters](https://leetcode-cn.com/problems/shifting-letters/)||[中等][level_2]|
+|849||[maximize distance to closest person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person/)||[简单][level_1]|
+|850||[rectangle area ii](https://leetcode-cn.com/problems/rectangle-area-ii/)||[困难][level_3]|
+|851||[loud and rich](https://leetcode-cn.com/problems/loud-and-rich/)||[中等][level_2]|
+|852||[peak index in a mountain array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/)||[简单][level_1]|
+|853||[car fleet](https://leetcode-cn.com/problems/car-fleet/)||[中等][level_2]|
+|854||[k similar strings](https://leetcode-cn.com/problems/k-similar-strings/)||[困难][level_3]|
+|855||[exam room](https://leetcode-cn.com/problems/exam-room/)||[中等][level_2]|
+|856||[score of parentheses](https://leetcode-cn.com/problems/score-of-parentheses/)||[中等][level_2]|
+|857||[minimum cost to hire k workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/)||[困难][level_3]|
+|858||[mirror reflection](https://leetcode-cn.com/problems/mirror-reflection/)||[中等][level_2]|
+|859||[buddy strings](https://leetcode-cn.com/problems/buddy-strings/)||[简单][level_1]|
+|860||[lemonade change](https://leetcode-cn.com/problems/lemonade-change/)||[简单][level_1]|
+|861||[score after flipping matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix/)||[中等][level_2]|
+|862||[shortest subarray with sum at least k](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/)||[困难][level_3]|
+|863||[all nodes distance k in binary tree](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)||[中等][level_2]|
+|864||[shortest path to get all keys](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys/)||[困难][level_3]|
+|865||[smallest subtree with all the deepest nodes](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes/)||[中等][level_2]|
+|866||[prime palindrome](https://leetcode-cn.com/problems/prime-palindrome/)||[中等][level_2]|
+|867||[transpose matrix](https://leetcode-cn.com/problems/transpose-matrix/)||[简单][level_1]|
+|868||[binary gap](https://leetcode-cn.com/problems/binary-gap/)||[简单][level_1]|
+|869||[reordered power of 2](https://leetcode-cn.com/problems/reordered-power-of-2/)||[中等][level_2]|
+|870||[advantage shuffle](https://leetcode-cn.com/problems/advantage-shuffle/)||[中等][level_2]|
+|871||[minimum number of refueling stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)||[困难][level_3]|
+|872||[leaf similar trees](https://leetcode-cn.com/problems/leaf-similar-trees/)||[简单][level_1]|
+|873||[length of longest fibonacci subsequence](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/)||[中等][level_2]|
+|874||[walking robot simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)||[简单][level_1]|
+|875||[koko eating bananas](https://leetcode-cn.com/problems/koko-eating-bananas/)||[中等][level_2]|
+|876||[middle of the linked list](https://leetcode-cn.com/problems/middle-of-the-linked-list/)||[简单][level_1]|
+|877||[stone game](https://leetcode-cn.com/problems/stone-game/)||[中等][level_2]|
+|878||[nth magical number](https://leetcode-cn.com/problems/nth-magical-number/)||[困难][level_3]|
+|879||[profitable schemes](https://leetcode-cn.com/problems/profitable-schemes/)||[困难][level_3]|
+|880||[decoded string at index](https://leetcode-cn.com/problems/decoded-string-at-index/)||[中等][level_2]|
+|881||[boats to save people](https://leetcode-cn.com/problems/boats-to-save-people/)||[中等][level_2]|
+|882||[reachable nodes in subdivided graph](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph/)||[困难][level_3]|
+|883||[projection area of 3d shapes](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)||[简单][level_1]|
+|884||[uncommon words from two sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)||[简单][level_1]|
+|885||[spiral matrix iii](https://leetcode-cn.com/problems/spiral-matrix-iii/)||[中等][level_2]|
+|886||[possible bipartition](https://leetcode-cn.com/problems/possible-bipartition/)||[中等][level_2]|
+|887||[super egg drop](https://leetcode-cn.com/problems/super-egg-drop/)||[困难][level_3]|
+|888||[fair candy swap](https://leetcode-cn.com/problems/fair-candy-swap/)||[简单][level_1]|
+|889||[construct binary tree from preorder and postorder traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||[中等][level_2]|
+|890||[find and replace pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/)||[中等][level_2]|
+|891||[sum of subsequence widths](https://leetcode-cn.com/problems/sum-of-subsequence-widths/)||[困难][level_3]|
+|892||[surface area of 3d shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)||[简单][level_1]|
+|893||[groups of special equivalent strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)||[简单][level_1]|
+|894||[all possible full binary trees](https://leetcode-cn.com/problems/all-possible-full-binary-trees/)||[中等][level_2]|
+|895||[maximum frequency stack](https://leetcode-cn.com/problems/maximum-frequency-stack/)||[困难][level_3]|
+|896||[monotonic array](https://leetcode-cn.com/problems/monotonic-array/)||[简单][level_1]|
+|897||[increasing order search tree](https://leetcode-cn.com/problems/increasing-order-search-tree/)||[简单][level_1]|
+|898||[bitwise ors of subarrays](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/)||[中等][level_2]|
+|899||[orderly queue](https://leetcode-cn.com/problems/orderly-queue/)||[困难][level_3]|
+|900||[rle iterator](https://leetcode-cn.com/problems/rle-iterator/)||[中等][level_2]|
+|901||[online stock span](https://leetcode-cn.com/problems/online-stock-span/)||[中等][level_2]|
+|902||[numbers at most n given digit set](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set/)||[困难][level_3]|
+|903||[valid permutations for di sequence](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/)||[困难][level_3]|
+|904||[fruit into baskets](https://leetcode-cn.com/problems/fruit-into-baskets/)||[中等][level_2]|
+|905||[sort array by parity](https://leetcode-cn.com/problems/sort-array-by-parity/)||[简单][level_1]|
+|906||[super palindromes](https://leetcode-cn.com/problems/super-palindromes/)||[困难][level_3]|
+|907||[sum of subarray minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)||[中等][level_2]|
+|908||[smallest range i](https://leetcode-cn.com/problems/smallest-range-i/)||[简单][level_1]|
+|909||[snakes and ladders](https://leetcode-cn.com/problems/snakes-and-ladders/)||[中等][level_2]|
+|910||[smallest range ii](https://leetcode-cn.com/problems/smallest-range-ii/)||[中等][level_2]|
+|911||[online election](https://leetcode-cn.com/problems/online-election/)||[中等][level_2]|
+|912||[sort an array](https://leetcode-cn.com/problems/sort-an-array/)||[中等][level_2]|
+|913||[cat and mouse](https://leetcode-cn.com/problems/cat-and-mouse/)||[困难][level_3]|
+|914||[x of a kind in a deck of cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)||[简单][level_1]|
+|915||[partition array into disjoint intervals](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/)||[中等][level_2]|
+|916||[word subsets](https://leetcode-cn.com/problems/word-subsets/)||[中等][level_2]|
+|917||[reverse only letters](https://leetcode-cn.com/problems/reverse-only-letters/)||[简单][level_1]|
+|918||[maximum sum circular subarray](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)||[中等][level_2]|
+|919||[complete binary tree inserter](https://leetcode-cn.com/problems/complete-binary-tree-inserter/)||[中等][level_2]|
+|920||[number of music playlists](https://leetcode-cn.com/problems/number-of-music-playlists/)||[困难][level_3]|
+|921||[minimum add to make parentheses valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/)||[中等][level_2]|
+|922||[sort array by parity ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)||[简单][level_1]|
+|923||[3sum with multiplicity](https://leetcode-cn.com/problems/3sum-with-multiplicity/)||[中等][level_2]|
+|924||[minimize malware spread](https://leetcode-cn.com/problems/minimize-malware-spread/)||[困难][level_3]|
+|925||[long pressed name](https://leetcode-cn.com/problems/long-pressed-name/)||[简单][level_1]|
+|926||[flip string to monotone increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/)||[中等][level_2]|
+|927||[three equal parts](https://leetcode-cn.com/problems/three-equal-parts/)||[困难][level_3]|
+|928||[minimize malware spread ii](https://leetcode-cn.com/problems/minimize-malware-spread-ii/)||[困难][level_3]|
+|929||[unique email addresses](https://leetcode-cn.com/problems/unique-email-addresses/)||[简单][level_1]|
+|930||[binary subarrays with sum](https://leetcode-cn.com/problems/binary-subarrays-with-sum/)||[中等][level_2]|
+|931||[minimum falling path sum](https://leetcode-cn.com/problems/minimum-falling-path-sum/)||[中等][level_2]|
+|932||[beautiful array](https://leetcode-cn.com/problems/beautiful-array/)||[中等][level_2]|
+|933||[number of recent calls](https://leetcode-cn.com/problems/number-of-recent-calls/)||[简单][level_1]|
+|934||[shortest bridge](https://leetcode-cn.com/problems/shortest-bridge/)||[中等][level_2]|
+|935||[knight dialer](https://leetcode-cn.com/problems/knight-dialer/)||[中等][level_2]|
+|936||[stamping the sequence](https://leetcode-cn.com/problems/stamping-the-sequence/)||[困难][level_3]|
+|937||[reorder data in log files](https://leetcode-cn.com/problems/reorder-data-in-log-files/)||[简单][level_1]|
+|938||[range sum of bst](https://leetcode-cn.com/problems/range-sum-of-bst/)||[简单][level_1]|
+|939||[minimum area rectangle](https://leetcode-cn.com/problems/minimum-area-rectangle/)||[中等][level_2]|
+|940||[distinct subsequences ii](https://leetcode-cn.com/problems/distinct-subsequences-ii/)||[困难][level_3]|
+|941||[valid mountain array](https://leetcode-cn.com/problems/valid-mountain-array/)||[简单][level_1]|
+|942||[di string match](https://leetcode-cn.com/problems/di-string-match/)||[简单][level_1]|
+|943||[find the shortest superstring](https://leetcode-cn.com/problems/find-the-shortest-superstring/)||[困难][level_3]|
+|944||[delete columns to make sorted](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)||[简单][level_1]|
+|945||[minimum increment to make array unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)||[中等][level_2]|
+|946||[validate stack sequences](https://leetcode-cn.com/problems/validate-stack-sequences/)||[中等][level_2]|
+|947||[most stones removed with same row or column](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/)||[中等][level_2]|
+|948||[bag of tokens](https://leetcode-cn.com/problems/bag-of-tokens/)||[中等][level_2]|
+|949||[largest time for given digits](https://leetcode-cn.com/problems/largest-time-for-given-digits/)||[简单][level_1]|
+|950||[reveal cards in increasing order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)||[中等][level_2]|
+|951||[flip equivalent binary trees](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)||[中等][level_2]|
+|952||[largest component size by common factor](https://leetcode-cn.com/problems/largest-component-size-by-common-factor/)||[困难][level_3]|
+|953||[verifying an alien dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)||[简单][level_1]|
+|954||[array of doubled pairs](https://leetcode-cn.com/problems/array-of-doubled-pairs/)||[中等][level_2]|
+|955||[delete columns to make sorted ii](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii/)||[中等][level_2]|
+|956||[tallest billboard](https://leetcode-cn.com/problems/tallest-billboard/)||[困难][level_3]|
+|957||[prison cells after n days](https://leetcode-cn.com/problems/prison-cells-after-n-days/)||[中等][level_2]|
+|958||[check completeness of a binary tree](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/)||[中等][level_2]|
+|959||[regions cut by slashes](https://leetcode-cn.com/problems/regions-cut-by-slashes/)||[中等][level_2]|
+|960||[delete columns to make sorted iii](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/)||[困难][level_3]|
+|961||[n repeated element in size 2n array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)||[简单][level_1]|
+|962||[maximum width ramp](https://leetcode-cn.com/problems/maximum-width-ramp/)||[中等][level_2]|
+|963||[minimum area rectangle ii](https://leetcode-cn.com/problems/minimum-area-rectangle-ii/)||[中等][level_2]|
+|964||[least operators to express number](https://leetcode-cn.com/problems/least-operators-to-express-number/)||[困难][level_3]|
+|965||[univalued binary tree](https://leetcode-cn.com/problems/univalued-binary-tree/)||[简单][level_1]|
+|966||[vowel spellchecker](https://leetcode-cn.com/problems/vowel-spellchecker/)||[中等][level_2]|
+|967||[numbers with same consecutive differences](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/)||[中等][level_2]|
+|968||[binary tree cameras](https://leetcode-cn.com/problems/binary-tree-cameras/)||[困难][level_3]|
+|969||[pancake sorting](https://leetcode-cn.com/problems/pancake-sorting/)||[中等][level_2]|
+|970||[powerful integers](https://leetcode-cn.com/problems/powerful-integers/)||[简单][level_1]|
+|971||[flip binary tree to match preorder traversal](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/)||[中等][level_2]|
+|972||[equal rational numbers](https://leetcode-cn.com/problems/equal-rational-numbers/)||[困难][level_3]|
+|973||[k closest points to origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/)||[中等][level_2]|
+|974||[subarray sums divisible by k](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/)||[中等][level_2]|
+|975||[odd even jump](https://leetcode-cn.com/problems/odd-even-jump/)||[困难][level_3]|
+|976||[largest perimeter triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/)||[简单][level_1]|
+|977||[squares of a sorted array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)||[简单][level_1]|
+|978||[longest turbulent subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/)||[中等][level_2]|
+|979||[distribute coins in binary tree](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/)||[中等][level_2]|
+|980||[unique paths iii](https://leetcode-cn.com/problems/unique-paths-iii/)||[困难][level_3]|
+|981||[time based key value store](https://leetcode-cn.com/problems/time-based-key-value-store/)||[中等][level_2]|
+|982||[triples with bitwise and equal to zero](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)||[困难][level_3]|
+|983||[minimum cost for tickets](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)||[中等][level_2]|
+|984||[string without aaa or bbb](https://leetcode-cn.com/problems/string-without-aaa-or-bbb/)||[中等][level_2]|
+|985||[sum of even numbers after queries](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)||[简单][level_1]|
+|986||[interval list intersections](https://leetcode-cn.com/problems/interval-list-intersections/)||[中等][level_2]|
+|987||[vertical order traversal of a binary tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/)||[中等][level_2]|
+|988||[smallest string starting from leaf](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf/)||[中等][level_2]|
+|989||[add to array form of integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)||[简单][level_1]|
+|990||[satisfiability of equality equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)||[中等][level_2]|
+|991||[broken calculator](https://leetcode-cn.com/problems/broken-calculator/)||[中等][level_2]|
+|992||[subarrays with k different integers](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)||[困难][level_3]|
+|993||[cousins in binary tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/)||[简单][level_1]|
+|994||[rotting oranges](https://leetcode-cn.com/problems/rotting-oranges/)||[简单][level_1]|
+|995||[minimum number of k consecutive bit flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)||[困难][level_3]|
+|996||[number of squareful arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)||[困难][level_3]|
+|997||[find the town judge](https://leetcode-cn.com/problems/find-the-town-judge/)||[简单][level_1]|
+|998||[maximum binary tree ii](https://leetcode-cn.com/problems/maximum-binary-tree-ii/)||[中等][level_2]|
+|999||[available captures for rook](https://leetcode-cn.com/problems/available-captures-for-rook/)||[简单][level_1]|
+|1000||[minimum cost to merge stones](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/)||[困难][level_3]|
+|1001||[grid illumination](https://leetcode-cn.com/problems/grid-illumination/)||[困难][level_3]|
+|1002||[find common characters](https://leetcode-cn.com/problems/find-common-characters/)||[简单][level_1]|
+|1003||[check if word is valid after substitutions](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/)||[中等][level_2]|
+|1004||[max consecutive ones iii](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)||[中等][level_2]|
+|1005||[maximize sum of array after k negations](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/)||[简单][level_1]|
+|1006||[clumsy factorial](https://leetcode-cn.com/problems/clumsy-factorial/)||[中等][level_2]|
+|1007||[minimum domino rotations for equal row](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row/)||[中等][level_2]|
+|1008||[construct binary search tree from preorder traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)||[中等][level_2]|
+|1009||[complement of base 10 integer](https://leetcode-cn.com/problems/complement-of-base-10-integer/)||[简单][level_1]|
+|1010||[pairs of songs with total durations divisible by 60](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)||[简单][level_1]|
+|1011||[capacity to ship packages within d days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)||[中等][level_2]|
+|1012||[numbers with repeated digits](https://leetcode-cn.com/problems/numbers-with-repeated-digits/)||[困难][level_3]|
+|1013||[partition array into three parts with equal sum](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)||[简单][level_1]|
+|1014||[best sightseeing pair](https://leetcode-cn.com/problems/best-sightseeing-pair/)||[中等][level_2]|
+|1015||[smallest integer divisible by k](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k/)||[中等][level_2]|
+|1016||[binary string with substrings representing 1 to n](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n/)||[中等][level_2]|
+|1017||[convert to base 2](https://leetcode-cn.com/problems/convert-to-base-2/)||[中等][level_2]|
+|1018||[binary prefix divisible by 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/)||[简单][level_1]|
+|1019||[next greater node in linked list](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/)||[中等][level_2]|
+|1020||[number of enclaves](https://leetcode-cn.com/problems/number-of-enclaves/)||[中等][level_2]|
+|1021||[remove outermost parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses/)||[简单][level_1]|
+|1022||[sum of root to leaf binary numbers](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/)||[简单][level_1]|
+|1023||[camelcase matching](https://leetcode-cn.com/problems/camelcase-matching/)||[中等][level_2]|
+|1024||[video stitching](https://leetcode-cn.com/problems/video-stitching/)||[中等][level_2]|
+|1025||[divisor game](https://leetcode-cn.com/problems/divisor-game/)||[简单][level_1]|
+|1026||[maximum difference between node and ancestor](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/)||[中等][level_2]|
+|1027||[longest arithmetic sequence](https://leetcode-cn.com/problems/longest-arithmetic-sequence/)||[中等][level_2]|
+|1028||[recover a tree from preorder traversal](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/)||[困难][level_3]|
+|1029||[two city scheduling](https://leetcode-cn.com/problems/two-city-scheduling/)||[简单][level_1]|
+|1030||[matrix cells in distance order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/)||[简单][level_1]|
+|1031||[maximum sum of two non overlapping subarrays](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)||[中等][level_2]|
+|1032||[stream of characters](https://leetcode-cn.com/problems/stream-of-characters/)||[困难][level_3]|
+|1033||[moving stones until consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive/)||[简单][level_1]|
+|1034||[coloring a border](https://leetcode-cn.com/problems/coloring-a-border/)||[中等][level_2]|
+|1035||[uncrossed lines](https://leetcode-cn.com/problems/uncrossed-lines/)||[中等][level_2]|
+|1036||[escape a large maze](https://leetcode-cn.com/problems/escape-a-large-maze/)||[困难][level_3]|
+|1037||[valid boomerang](https://leetcode-cn.com/problems/valid-boomerang/)||[简单][level_1]|
+|1038||[binary search tree to greater sum tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/)||[中等][level_2]|
+|1039||[minimum score triangulation of polygon](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon/)||[中等][level_2]|
+|1040||[moving stones until consecutive ii](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii/)||[中等][level_2]|
+|1041||[robot bounded in circle](https://leetcode-cn.com/problems/robot-bounded-in-circle/)||[中等][level_2]|
+|1042||[flower planting with no adjacent](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent/)||[简单][level_1]|
+|1043||[partition array for maximum sum](https://leetcode-cn.com/problems/partition-array-for-maximum-sum/)||[中等][level_2]|
+|1044||[longest duplicate substring](https://leetcode-cn.com/problems/longest-duplicate-substring/)||[困难][level_3]|
+|1045||[customers who bought all products](https://leetcode-cn.com/problems/customers-who-bought-all-products/)||[中等][level_2]|
+|1046||[last stone weight](https://leetcode-cn.com/problems/last-stone-weight/)||[简单][level_1]|
+|1047||[remove all adjacent duplicates in string](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)||[简单][level_1]|
+|1048||[longest string chain](https://leetcode-cn.com/problems/longest-string-chain/)||[中等][level_2]|
+|1049||[last stone weight ii](https://leetcode-cn.com/problems/last-stone-weight-ii/)||[中等][level_2]|
+|1050||[actors and directors who cooperated at least three times](https://leetcode-cn.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)||[简单][level_1]|
+|1051||[height checker](https://leetcode-cn.com/problems/height-checker/)||[简单][level_1]|
+|1052||[grumpy bookstore owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)||[中等][level_2]|
+|1053||[previous permutation with one swap](https://leetcode-cn.com/problems/previous-permutation-with-one-swap/)||[中等][level_2]|
+|1054||[distant barcodes](https://leetcode-cn.com/problems/distant-barcodes/)||[中等][level_2]|
+|1055||[shortest way to form string](https://leetcode-cn.com/problems/shortest-way-to-form-string/)||[中等][level_2]|
+|1056||[confusing number](https://leetcode-cn.com/problems/confusing-number/)||[简单][level_1]|
+|1057||[campus bikes](https://leetcode-cn.com/problems/campus-bikes/)||[中等][level_2]|
+|1058||[minimize rounding error to meet target](https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target/)||[中等][level_2]|
+|1059||[all paths from source lead to destination](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination/)||[中等][level_2]|
+|1060||[missing element in sorted array](https://leetcode-cn.com/problems/missing-element-in-sorted-array/)||[中等][level_2]|
+|1061||[lexicographically smallest equivalent string](https://leetcode-cn.com/problems/lexicographically-smallest-equivalent-string/)||[中等][level_2]|
+|1062||[longest repeating substring](https://leetcode-cn.com/problems/longest-repeating-substring/)||[中等][level_2]|
+|1063||[number of valid subarrays](https://leetcode-cn.com/problems/number-of-valid-subarrays/)||[困难][level_3]|
+|1064||[fixed point](https://leetcode-cn.com/problems/fixed-point/)||[简单][level_1]|
+|1065||[index pairs of a string](https://leetcode-cn.com/problems/index-pairs-of-a-string/)||[简单][level_1]|
+|1066||[campus bikes ii](https://leetcode-cn.com/problems/campus-bikes-ii/)||[中等][level_2]|
+|1067||[digit count in range](https://leetcode-cn.com/problems/digit-count-in-range/)||[困难][level_3]|
+|1068||[product sales analysis i](https://leetcode-cn.com/problems/product-sales-analysis-i/)||[简单][level_1]|
+|1069||[product sales analysis ii](https://leetcode-cn.com/problems/product-sales-analysis-ii/)||[简单][level_1]|
+|1070||[product sales analysis iii](https://leetcode-cn.com/problems/product-sales-analysis-iii/)||[中等][level_2]|
+|1071||[greatest common divisor of strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)||[简单][level_1]|
+|1072||[flip columns for maximum number of equal rows](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/)||[中等][level_2]|
+|1073||[adding two negabinary numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)||[中等][level_2]|
+|1074||[number of submatrices that sum to target](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/)||[困难][level_3]|
+|1075||[project employees i](https://leetcode-cn.com/problems/project-employees-i/)||[简单][level_1]|
+|1076||[project employees ii](https://leetcode-cn.com/problems/project-employees-ii/)||[简单][level_1]|
+|1077||[project employees iii](https://leetcode-cn.com/problems/project-employees-iii/)||[中等][level_2]|
+|1078||[occurrences after bigram](https://leetcode-cn.com/problems/occurrences-after-bigram/)||[简单][level_1]|
+|1079||[letter tile possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/)||[中等][level_2]|
+|1080||[insufficient nodes in root to leaf paths](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths/)||[中等][level_2]|
+|1081||[smallest subsequence of distinct characters](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/)||[中等][level_2]|
+|1082||[sales analysis i](https://leetcode-cn.com/problems/sales-analysis-i/)||[简单][level_1]|
+|1083||[sales analysis ii](https://leetcode-cn.com/problems/sales-analysis-ii/)||[简单][level_1]|
+|1084||[sales analysis iii](https://leetcode-cn.com/problems/sales-analysis-iii/)||[简单][level_1]|
+|1085||[sum of digits in the minimum number](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number/)||[简单][level_1]|
+|1086||[high five](https://leetcode-cn.com/problems/high-five/)||[简单][level_1]|
+|1087||[brace expansion](https://leetcode-cn.com/problems/brace-expansion/)||[中等][level_2]|
+|1088||[confusing number ii](https://leetcode-cn.com/problems/confusing-number-ii/)||[困难][level_3]|
+|1089||[duplicate zeros](https://leetcode-cn.com/problems/duplicate-zeros/)||[简单][level_1]|
+|1090||[largest values from labels](https://leetcode-cn.com/problems/largest-values-from-labels/)||[中等][level_2]|
+|1091||[shortest path in binary matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/)||[中等][level_2]|
+|1092||[shortest common supersequence](https://leetcode-cn.com/problems/shortest-common-supersequence/)||[困难][level_3]|
+|1093||[statistics from a large sample](https://leetcode-cn.com/problems/statistics-from-a-large-sample/)||[中等][level_2]|
+|1094||[car pooling](https://leetcode-cn.com/problems/car-pooling/)||[中等][level_2]|
+|1095||[find in mountain array](https://leetcode-cn.com/problems/find-in-mountain-array/)||[困难][level_3]|
+|1096||[brace expansion ii](https://leetcode-cn.com/problems/brace-expansion-ii/)||[困难][level_3]|
+|1097||[game play analysis v](https://leetcode-cn.com/problems/game-play-analysis-v/)||[困难][level_3]|
+|1098||[unpopular books](https://leetcode-cn.com/problems/unpopular-books/)||[中等][level_2]|
+|1099||[two sum less than k](https://leetcode-cn.com/problems/two-sum-less-than-k/)||[简单][level_1]|
+|1100||[find k length substrings with no repeated characters](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters/)||[中等][level_2]|
+|1101||[the earliest moment when everyone become friends](https://leetcode-cn.com/problems/the-earliest-moment-when-everyone-become-friends/)||[中等][level_2]|
+|1102||[path with maximum minimum value](https://leetcode-cn.com/problems/path-with-maximum-minimum-value/)||[中等][level_2]|
+|1103||[distribute candies to people](https://leetcode-cn.com/problems/distribute-candies-to-people/)||[简单][level_1]|
+|1104||[path in zigzag labelled binary tree](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)||[中等][level_2]|
+|1105||[filling bookcase shelves](https://leetcode-cn.com/problems/filling-bookcase-shelves/)||[中等][level_2]|
+|1106||[parsing a boolean expression](https://leetcode-cn.com/problems/parsing-a-boolean-expression/)||[困难][level_3]|
+|1107||[new users daily count](https://leetcode-cn.com/problems/new-users-daily-count/)||[中等][level_2]|
+|1108||[defanging an ip address](https://leetcode-cn.com/problems/defanging-an-ip-address/)||[简单][level_1]|
+|1109||[corporate flight bookings](https://leetcode-cn.com/problems/corporate-flight-bookings/)||[中等][level_2]|
+|1110||[delete nodes and return forest](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/)||[中等][level_2]|
+|1111||[maximum nesting depth of two valid parentheses strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)||[中等][level_2]|
+|1112||[highest grade for each student](https://leetcode-cn.com/problems/highest-grade-for-each-student/)||[中等][level_2]|
+|1113||[reported posts](https://leetcode-cn.com/problems/reported-posts/)||[简单][level_1]|
+|1114||[print in order](https://leetcode-cn.com/problems/print-in-order/)||[简单][level_1]|
+|1115||[print foobar alternately](https://leetcode-cn.com/problems/print-foobar-alternately/)||[中等][level_2]|
+|1116||[print zero even odd](https://leetcode-cn.com/problems/print-zero-even-odd/)||[中等][level_2]|
+|1117||[building h2o](https://leetcode-cn.com/problems/building-h2o/)||[中等][level_2]|
+|1118||[number of days in a month](https://leetcode-cn.com/problems/number-of-days-in-a-month/)||[简单][level_1]|
+|1119||[remove vowels from a string](https://leetcode-cn.com/problems/remove-vowels-from-a-string/)||[简单][level_1]|
+|1120||[maximum average subtree](https://leetcode-cn.com/problems/maximum-average-subtree/)||[中等][level_2]|
+|1121||[divide array into increasing sequences](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences/)||[困难][level_3]|
+|1122||[relative sort array](https://leetcode-cn.com/problems/relative-sort-array/)||[简单][level_1]|
+|1123||[lowest common ancestor of deepest leaves](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/)||[中等][level_2]|
+|1124||[longest well performing interval](https://leetcode-cn.com/problems/longest-well-performing-interval/)||[中等][level_2]|
+|1125||[smallest sufficient team](https://leetcode-cn.com/problems/smallest-sufficient-team/)||[困难][level_3]|
+|1126||[active businesses](https://leetcode-cn.com/problems/active-businesses/)||[中等][level_2]|
+|1127||[user purchase platform](https://leetcode-cn.com/problems/user-purchase-platform/)||[困难][level_3]|
+|1128||[number of equivalent domino pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/)||[简单][level_1]|
+|1129||[shortest path with alternating colors](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors/)||[中等][level_2]|
+|1130||[minimum cost tree from leaf values](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values/)||[中等][level_2]|
+|1131||[maximum of absolute value expression](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression/)||[中等][level_2]|
+|1132||[reported posts ii](https://leetcode-cn.com/problems/reported-posts-ii/)||[中等][level_2]|
+|1133||[largest unique number](https://leetcode-cn.com/problems/largest-unique-number/)||[简单][level_1]|
+|1134||[armstrong number](https://leetcode-cn.com/problems/armstrong-number/)||[简单][level_1]|
+|1135||[connecting cities with minimum cost](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost/)||[中等][level_2]|
+|1136||[parallel courses](https://leetcode-cn.com/problems/parallel-courses/)||[困难][level_3]|
+|1137||[n th tribonacci number](https://leetcode-cn.com/problems/n-th-tribonacci-number/)||[简单][level_1]|
+|1138||[alphabet board path](https://leetcode-cn.com/problems/alphabet-board-path/)||[中等][level_2]|
+|1139||[largest 1 bordered square](https://leetcode-cn.com/problems/largest-1-bordered-square/)||[中等][level_2]|
+|1140||[stone game ii](https://leetcode-cn.com/problems/stone-game-ii/)||[中等][level_2]|
+|1141||[user activity for the past 30 days i](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-i/)||[简单][level_1]|
+|1142||[user activity for the past 30 days ii](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-ii/)||[简单][level_1]|
+|1143||[longest common subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/)||[中等][level_2]|
+|1144||[decrease elements to make array zigzag](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag/)||[中等][level_2]|
+|1145||[binary tree coloring game](https://leetcode-cn.com/problems/binary-tree-coloring-game/)||[中等][level_2]|
+|1146||[snapshot array](https://leetcode-cn.com/problems/snapshot-array/)||[中等][level_2]|
+|1147||[longest chunked palindrome decomposition](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition/)||[困难][level_3]|
+|1148||[article views i](https://leetcode-cn.com/problems/article-views-i/)||[简单][level_1]|
+|1149||[article views ii](https://leetcode-cn.com/problems/article-views-ii/)||[中等][level_2]|
+|1150||[check if a number is majority element in a sorted array](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)||[简单][level_1]|
+|1151||[minimum swaps to group all 1s together](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together/)||[中等][level_2]|
+|1152||[analyze user website visit pattern](https://leetcode-cn.com/problems/analyze-user-website-visit-pattern/)||[中等][level_2]|
+|1153||[string transforms into another string](https://leetcode-cn.com/problems/string-transforms-into-another-string/)||[困难][level_3]|
+|1154||[day of the year](https://leetcode-cn.com/problems/day-of-the-year/)||[简单][level_1]|
+|1155||[number of dice rolls with target sum](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum/)||[中等][level_2]|
+|1156||[swap for longest repeated character substring](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring/)||[中等][level_2]|
+|1157||[online majority element in subarray](https://leetcode-cn.com/problems/online-majority-element-in-subarray/)||[困难][level_3]|
+|1158||[market analysis i](https://leetcode-cn.com/problems/market-analysis-i/)||[中等][level_2]|
+|1159||[market analysis ii](https://leetcode-cn.com/problems/market-analysis-ii/)||[困难][level_3]|
+|1160||[find words that can be formed by characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)||[简单][level_1]|
+|1161||[maximum level sum of a binary tree](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/)||[中等][level_2]|
+|1162||[as far from land as possible](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)||[中等][level_2]|
+|1163||[last substring in lexicographical order](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order/)||[困难][level_3]|
+|1164||[product price at a given date](https://leetcode-cn.com/problems/product-price-at-a-given-date/)||[中等][level_2]|
+|1165||[single row keyboard](https://leetcode-cn.com/problems/single-row-keyboard/)||[简单][level_1]|
+|1166||[design file system](https://leetcode-cn.com/problems/design-file-system/)||[中等][level_2]|
+|1167||[minimum cost to connect sticks](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks/)||[中等][level_2]|
+|1168||[optimize water distribution in a village](https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village/)||[困难][level_3]|
+|1169||[invalid transactions](https://leetcode-cn.com/problems/invalid-transactions/)||[中等][level_2]|
+|1170||[compare strings by frequency of the smallest character](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/)||[简单][level_1]|
+|1171||[remove zero sum consecutive nodes from linked list](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)||[中等][level_2]|
+|1172||[dinner plate stacks](https://leetcode-cn.com/problems/dinner-plate-stacks/)||[困难][level_3]|
+|1173||[immediate food delivery i](https://leetcode-cn.com/problems/immediate-food-delivery-i/)||[简单][level_1]|
+|1174||[immediate food delivery ii](https://leetcode-cn.com/problems/immediate-food-delivery-ii/)||[中等][level_2]|
+|1175||[prime arrangements](https://leetcode-cn.com/problems/prime-arrangements/)||[简单][level_1]|
+|1176||[diet plan performance](https://leetcode-cn.com/problems/diet-plan-performance/)||[简单][level_1]|
+|1177||[can make palindrome from substring](https://leetcode-cn.com/problems/can-make-palindrome-from-substring/)||[中等][level_2]|
+|1178||[number of valid words for each puzzle](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/)||[困难][level_3]|
+|1179||[reformat department table](https://leetcode-cn.com/problems/reformat-department-table/)||[简单][level_1]|
+|1180||[count substrings with only one distinct letter](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter/)||[简单][level_1]|
+|1181||[before and after puzzle](https://leetcode-cn.com/problems/before-and-after-puzzle/)||[中等][level_2]|
+|1182||[shortest distance to target color](https://leetcode-cn.com/problems/shortest-distance-to-target-color/)||[中等][level_2]|
+|1183||[maximum number of ones](https://leetcode-cn.com/problems/maximum-number-of-ones/)||[困难][level_3]|
+|1184||[distance between bus stops](https://leetcode-cn.com/problems/distance-between-bus-stops/)||[简单][level_1]|
+|1185||[day of the week](https://leetcode-cn.com/problems/day-of-the-week/)||[简单][level_1]|
+|1186||[maximum subarray sum with one deletion](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/)||[中等][level_2]|
+|1187||[make array strictly increasing](https://leetcode-cn.com/problems/make-array-strictly-increasing/)||[困难][level_3]|
+|1188||[design bounded blocking queue](https://leetcode-cn.com/problems/design-bounded-blocking-queue/)||[中等][level_2]|
+|1189||[maximum number of balloons](https://leetcode-cn.com/problems/maximum-number-of-balloons/)||[简单][level_1]|
+|1190||[reverse substrings between each pair of parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)||[中等][level_2]|
+|1191||[k concatenation maximum sum](https://leetcode-cn.com/problems/k-concatenation-maximum-sum/)||[中等][level_2]|
+|1192||[critical connections in a network](https://leetcode-cn.com/problems/critical-connections-in-a-network/)||[困难][level_3]|
+|1193||[monthly transactions i](https://leetcode-cn.com/problems/monthly-transactions-i/)||[中等][level_2]|
+|1194||[tournament winners](https://leetcode-cn.com/problems/tournament-winners/)||[困难][level_3]|
+|1195||[fizz buzz multithreaded](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/)||[中等][level_2]|
+|1196||[how many apples can you put into the basket](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/)||[简单][level_1]|
+|1197||[minimum knight moves](https://leetcode-cn.com/problems/minimum-knight-moves/)||[中等][level_2]|
+|1198||[find smallest common element in all rows](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows/)||[中等][level_2]|
+|1199||[minimum time to build blocks](https://leetcode-cn.com/problems/minimum-time-to-build-blocks/)||[困难][level_3]|
+|1200||[minimum absolute difference](https://leetcode-cn.com/problems/minimum-absolute-difference/)||[简单][level_1]|
+|1201||[ugly number iii](https://leetcode-cn.com/problems/ugly-number-iii/)||[中等][level_2]|
+|1202||[smallest string with swaps](https://leetcode-cn.com/problems/smallest-string-with-swaps/)||[中等][level_2]|
+|1203||[sort items by groups respecting dependencies](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)||[困难][level_3]|
+|1204||[last person to fit in the elevator](https://leetcode-cn.com/problems/last-person-to-fit-in-the-elevator/)||[中等][level_2]|
+|1205||[monthly transactions ii](https://leetcode-cn.com/problems/monthly-transactions-ii/)||[中等][level_2]|
+|1206||[design skiplist](https://leetcode-cn.com/problems/design-skiplist/)||[困难][level_3]|
+|1207||[unique number of occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/)||[简单][level_1]|
+|1208||[get equal substrings within budget](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/)||[中等][level_2]|
+|1209||[remove all adjacent duplicates in string ii](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/)||[中等][level_2]|
+|1210||[minimum moves to reach target with rotations](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations/)||[困难][level_3]|
+|1211||[queries quality and percentage](https://leetcode-cn.com/problems/queries-quality-and-percentage/)||[简单][level_1]|
+|1212||[team scores in football tournament](https://leetcode-cn.com/problems/team-scores-in-football-tournament/)||[中等][level_2]|
+|1213||[intersection of three sorted arrays](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays/)||[简单][level_1]|
+|1214||[two sum bsts](https://leetcode-cn.com/problems/two-sum-bsts/)||[中等][level_2]|
+|1215||[stepping numbers](https://leetcode-cn.com/problems/stepping-numbers/)||[中等][level_2]|
+|1216||[valid palindrome iii](https://leetcode-cn.com/problems/valid-palindrome-iii/)||[困难][level_3]|
+|1217||[play with chips](https://leetcode-cn.com/problems/play-with-chips/)||[简单][level_1]|
+|1218||[longest arithmetic subsequence of given difference](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)||[中等][level_2]|
+|1219||[path with maximum gold](https://leetcode-cn.com/problems/path-with-maximum-gold/)||[中等][level_2]|
+|1220||[count vowels permutation](https://leetcode-cn.com/problems/count-vowels-permutation/)||[困难][level_3]|
+|1221||[split a string in balanced strings](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)||[简单][level_1]|
+|1222||[queens that can attack the king](https://leetcode-cn.com/problems/queens-that-can-attack-the-king/)||[中等][level_2]|
+|1223||[dice roll simulation](https://leetcode-cn.com/problems/dice-roll-simulation/)||[中等][level_2]|
+|1224||[maximum equal frequency](https://leetcode-cn.com/problems/maximum-equal-frequency/)||[困难][level_3]|
+|1225||[report contiguous dates](https://leetcode-cn.com/problems/report-contiguous-dates/)||[困难][level_3]|
+|1226||[the dining philosophers](https://leetcode-cn.com/problems/the-dining-philosophers/)||[中等][level_2]|
+|1227||[airplane seat assignment probability](https://leetcode-cn.com/problems/airplane-seat-assignment-probability/)||[中等][level_2]|
+|1228||[missing number in arithmetic progression](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression/)||[简单][level_1]|
+|1229||[meeting scheduler](https://leetcode-cn.com/problems/meeting-scheduler/)||[中等][level_2]|
+|1230||[toss strange coins](https://leetcode-cn.com/problems/toss-strange-coins/)||[中等][level_2]|
+|1231||[divide chocolate](https://leetcode-cn.com/problems/divide-chocolate/)||[困难][level_3]|
+|1232||[check if it is a straight line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/)||[简单][level_1]|
+|1233||[remove sub folders from the filesystem](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem/)||[中等][level_2]|
+|1234||[replace the substring for balanced string](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/)||[中等][level_2]|
+|1235||[maximum profit in job scheduling](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling/)||[困难][level_3]|
+|1236||[web crawler](https://leetcode-cn.com/problems/web-crawler/)||[中等][level_2]|
+|1237||[find positive integer solution for a given equation](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/)||[简单][level_1]|
+|1238||[circular permutation in binary representation](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/)||[中等][level_2]|
+|1239||[maximum length of a concatenated string with unique characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)||[中等][level_2]|
+|1240||[tiling a rectangle with the fewest squares](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares/)||[困难][level_3]|
+|1241||[number of comments per post](https://leetcode-cn.com/problems/number-of-comments-per-post/)||[简单][level_1]|
+|1242||[web crawler multithreaded](https://leetcode-cn.com/problems/web-crawler-multithreaded/)||[中等][level_2]|
+|1243||[array transformation](https://leetcode-cn.com/problems/array-transformation/)||[简单][level_1]|
+|1244||[design a leaderboard](https://leetcode-cn.com/problems/design-a-leaderboard/)||[中等][level_2]|
+|1245||[tree diameter](https://leetcode-cn.com/problems/tree-diameter/)||[中等][level_2]|
+|1246||[palindrome removal](https://leetcode-cn.com/problems/palindrome-removal/)||[困难][level_3]|
+|1247||[minimum swaps to make strings equal](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/)||[中等][level_2]|
+|1248||[count number of nice subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)||[中等][level_2]|
+|1249||[minimum remove to make valid parentheses](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)||[中等][level_2]|
+|1250||[check if it is a good array](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/)||[困难][level_3]|
+|1251||[average selling price](https://leetcode-cn.com/problems/average-selling-price/)||[简单][level_1]|
+|1252||[cells with odd values in a matrix](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/)||[简单][level_1]|
+|1253||[reconstruct a 2 row binary matrix](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/)||[中等][level_2]|
+|1254||[number of closed islands](https://leetcode-cn.com/problems/number-of-closed-islands/)||[中等][level_2]|
+|1255||[maximum score words formed by letters](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters/)||[困难][level_3]|
+|1256||[encode number](https://leetcode-cn.com/problems/encode-number/)||[中等][level_2]|
+|1257||[smallest common region](https://leetcode-cn.com/problems/smallest-common-region/)||[中等][level_2]|
+|1258||[synonymous sentences](https://leetcode-cn.com/problems/synonymous-sentences/)||[中等][level_2]|
+|1259||[handshakes that dont cross](https://leetcode-cn.com/problems/handshakes-that-dont-cross/)||[困难][level_3]|
+|1260||[shift 2d grid](https://leetcode-cn.com/problems/shift-2d-grid/)||[简单][level_1]|
+|1261||[find elements in a contaminated binary tree](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/)||[中等][level_2]|
+|1262||[greatest sum divisible by three](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/)||[中等][level_2]|
+|1263||[minimum moves to move a box to their target location](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location/)||[困难][level_3]|
+|1264||[page recommendations](https://leetcode-cn.com/problems/page-recommendations/)||[中等][level_2]|
+|1265||[print immutable linked list in reverse](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse/)||[中等][level_2]|
+|1266||[minimum time visiting all points](https://leetcode-cn.com/problems/minimum-time-visiting-all-points/)||[简单][level_1]|
+|1267||[count servers that communicate](https://leetcode-cn.com/problems/count-servers-that-communicate/)||[中等][level_2]|
+|1268||[search suggestions system](https://leetcode-cn.com/problems/search-suggestions-system/)||[中等][level_2]|
+|1269||[number of ways to stay in the same place after some steps](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)||[困难][level_3]|
+|1270||[all people report to the given manager](https://leetcode-cn.com/problems/all-people-report-to-the-given-manager/)||[中等][level_2]|
