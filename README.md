@@ -40,13 +40,13 @@
 |17||[letter combinations of a phone number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)||[中等][level_2]|
 |18||[4sum](https://leetcode-cn.com/problems/4sum/)||[中等][level_2]|
 |19||[remove nth node from end of list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)||[中等][level_2]|
-|20||[valid parentheses](https://leetcode-cn.com/problems/valid-parentheses/)||[简单][level_1]|
+|20||[valid parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/isValid/isValid.go)|[简单][level_1]|
 |21||[merge two sorted lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)||[简单][level_1]|
 |22||[generate parentheses](https://leetcode-cn.com/problems/generate-parentheses/)||[中等][level_2]|
 |23||[merge k sorted lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)||[困难][level_3]|
 |24||[swap nodes in pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)||[中等][level_2]|
 |25||[reverse nodes in k group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)||[困难][level_3]|
-|26||[remove duplicates from sorted array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)||[简单][level_1]|
+|26||[remove duplicates from sorted array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/removeDuplicates/removeDuplicates.go)|[简单][level_1]|
 |27||[remove element](https://leetcode-cn.com/problems/remove-element/)||[简单][level_1]|
 |28||[implement strstr](https://leetcode-cn.com/problems/implement-strstr/)||[简单][level_1]|
 |29||[divide two integers](https://leetcode-cn.com/problems/divide-two-integers/)||[中等][level_2]|
@@ -86,7 +86,7 @@
 |63||[unique paths ii](https://leetcode-cn.com/problems/unique-paths-ii/)||[中等][level_2]|
 |64||[minimum path sum](https://leetcode-cn.com/problems/minimum-path-sum/)||[中等][level_2]|
 |65||[valid number](https://leetcode-cn.com/problems/valid-number/)||[困难][level_3]|
-|66||[plus one](https://leetcode-cn.com/problems/plus-one/)||[简单][level_1]|
+|66||[plus one](https://leetcode-cn.com/problems/plus-one/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/plusOne/plusOne.go)|[简单][level_1]|
 |67||[add binary](https://leetcode-cn.com/problems/add-binary/)||[简单][level_1]|
 |68||[text justification](https://leetcode-cn.com/problems/text-justification/)||[困难][level_3]|
 |69||[sqrtx](https://leetcode-cn.com/problems/sqrtx/)||[简单][level_1]|
@@ -303,7 +303,7 @@
 |280||[wiggle sort](https://leetcode-cn.com/problems/wiggle-sort/)||[中等][level_2]|
 |281||[zigzag iterator](https://leetcode-cn.com/problems/zigzag-iterator/)||[中等][level_2]|
 |282||[expression add operators](https://leetcode-cn.com/problems/expression-add-operators/)||[困难][level_3]|
-|283||[move zeroes](https://leetcode-cn.com/problems/move-zeroes/)||[简单][level_1]|
+|283||[move zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/moveZeroes/moveZeroes.go)|[简单][level_1]|
 |284||[peeking iterator](https://leetcode-cn.com/problems/peeking-iterator/)||[中等][level_2]|
 |285||[inorder successor in bst](https://leetcode-cn.com/problems/inorder-successor-in-bst/)||[中等][level_2]|
 |286||[walls and gates](https://leetcode-cn.com/problems/walls-and-gates/)||[中等][level_2]|
@@ -1180,7 +1180,7 @@
 |1157||[online majority element in subarray](https://leetcode-cn.com/problems/online-majority-element-in-subarray/)||[困难][level_3]|
 |1158||[market analysis i](https://leetcode-cn.com/problems/market-analysis-i/)||[中等][level_2]|
 |1159||[market analysis ii](https://leetcode-cn.com/problems/market-analysis-ii/)||[困难][level_3]|
-|1160||[find words that can be formed by characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)||[简单][level_1]|
+|1160||[find words that can be formed by characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/countCharacters/countCharacters.go)|[简单][level_1]|
 |1161||[maximum level sum of a binary tree](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/)||[中等][level_2]|
 |1162||[as far from land as possible](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)||[中等][level_2]|
 |1163||[last substring in lexicographical order](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order/)||[困难][level_3]|
