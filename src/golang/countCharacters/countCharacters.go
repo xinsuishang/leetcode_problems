@@ -44,6 +44,8 @@ func countCharacters(words []string, chars string) int {
 	return res
 }
 
+// times: 1
+
 func main() {
 	//words := []string{"cat","bt","hat","tree"}
 	//st := "atach"
