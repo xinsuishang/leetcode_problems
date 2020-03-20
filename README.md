@@ -226,7 +226,7 @@
 |203||[remove linked list elements](https://leetcode-cn.com/problems/remove-linked-list-elements/)||[简单][level_1]|
 |204||[count primes](https://leetcode-cn.com/problems/count-primes/)||[简单][level_1]|
 |205||[isomorphic strings](https://leetcode-cn.com/problems/isomorphic-strings/)||[简单][level_1]|
-|206||[reverse linked list](https://leetcode-cn.com/problems/reverse-linked-list/)||[简单][level_1]|
+|206||[reverse linked list](https://leetcode-cn.com/problems/reverse-linked-list/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/reverseList/reverseList.go)|[简单][level_1]|
 |207||[course schedule](https://leetcode-cn.com/problems/course-schedule/)||[中等][level_2]|
 |208||[implement trie prefix tree](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)||[中等][level_2]|
 |209||[minimum size subarray sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)||[中等][level_2]|
