@@ -41,7 +41,7 @@
 |18||[4sum](https://leetcode-cn.com/problems/4sum/)||[中等][level_2]|
 |19||[remove nth node from end of list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)||[中等][level_2]|
 |20||[valid parentheses](https://leetcode-cn.com/problems/valid-parentheses/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/isValid/isValid.go)|[简单][level_1]|
-|21||[merge two sorted lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)||[简单][level_1]|
+|21||[merge two sorted lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/mergeTwoLists/mergeTwoLists.go)|[简单][level_1]|
 |22||[generate parentheses](https://leetcode-cn.com/problems/generate-parentheses/)||[中等][level_2]|
 |23||[merge k sorted lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)||[困难][level_3]|
 |24||[swap nodes in pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)||[中等][level_2]|
