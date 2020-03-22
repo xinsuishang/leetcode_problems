@@ -896,7 +896,7 @@
 |873||[length of longest fibonacci subsequence](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/)||[中等][level_2]|
 |874||[walking robot simulation](https://leetcode-cn.com/problems/walking-robot-simulation/)||[简单][level_1]|
 |875||[koko eating bananas](https://leetcode-cn.com/problems/koko-eating-bananas/)||[中等][level_2]|
-|876||[middle of the linked list](https://leetcode-cn.com/problems/middle-of-the-linked-list/)||[简单][level_1]|
+|876||[middle of the linked list](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/middleNode/middleNode.go)|[简单][level_1]|
 |877||[stone game](https://leetcode-cn.com/problems/stone-game/)||[中等][level_2]|
 |878||[nth magical number](https://leetcode-cn.com/problems/nth-magical-number/)||[困难][level_3]|
 |879||[profitable schemes](https://leetcode-cn.com/problems/profitable-schemes/)||[困难][level_3]|
