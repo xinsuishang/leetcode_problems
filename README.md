@@ -62,14 +62,14 @@
 |39||[combination sum](https://leetcode-cn.com/problems/combination-sum/)||[中等][level_2]|
 |40||[combination sum ii](https://leetcode-cn.com/problems/combination-sum-ii/)||[中等][level_2]|
 |41||[first missing positive](https://leetcode-cn.com/problems/first-missing-positive/)||[困难][level_3]|
-|42||[trapping rain water](https://leetcode-cn.com/problems/trapping-rain-water/)||[困难][level_3]|
+|42||[trapping rain water](https://leetcode-cn.com/problems/trapping-rain-water/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/trap/trap.go)|[困难][level_3]|
 |43||[multiply strings](https://leetcode-cn.com/problems/multiply-strings/)||[中等][level_2]|
 |44||[wildcard matching](https://leetcode-cn.com/problems/wildcard-matching/)||[困难][level_3]|
 |45||[jump game ii](https://leetcode-cn.com/problems/jump-game-ii/)||[困难][level_3]|
 |46||[permutations](https://leetcode-cn.com/problems/permutations/)||[中等][level_2]|
 |47||[permutations ii](https://leetcode-cn.com/problems/permutations-ii/)||[中等][level_2]|
 |48||[rotate image](https://leetcode-cn.com/problems/rotate-image/)||[中等][level_2]|
-|49||[group anagrams](https://leetcode-cn.com/problems/group-anagrams/)||[中等][level_2]|
+|49||[group anagrams](https://leetcode-cn.com/problems/group-anagrams/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/groupAnagrams/groupAnagrams.go)|[中等][level_2]|
 |50||[powx n](https://leetcode-cn.com/problems/powx-n/)||[中等][level_2]|
 |51||[n queens](https://leetcode-cn.com/problems/n-queens/)||[困难][level_3]|
 |52||[n queens ii](https://leetcode-cn.com/problems/n-queens-ii/)||[困难][level_3]|
@@ -385,7 +385,7 @@
 |362||[design hit counter](https://leetcode-cn.com/problems/design-hit-counter/)||[中等][level_2]|
 |363||[max sum of rectangle no larger than k](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)||[困难][level_3]|
 |364||[nested list weight sum ii](https://leetcode-cn.com/problems/nested-list-weight-sum-ii/)||[中等][level_2]|
-|365||[water and jug problem](https://leetcode-cn.com/problems/water-and-jug-problem/)||[中等][level_2]|
+|365||[water and jug problem](https://leetcode-cn.com/problems/water-and-jug-problem/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/canMeasureWater/canMeasureWater.go)|[中等][level_2]|
 |366||[find leaves of binary tree](https://leetcode-cn.com/problems/find-leaves-of-binary-tree/)||[中等][level_2]|
 |367||[valid perfect square](https://leetcode-cn.com/problems/valid-perfect-square/)||[简单][level_1]|
 |368||[largest divisible subset](https://leetcode-cn.com/problems/largest-divisible-subset/)||[中等][level_2]|
@@ -744,7 +744,7 @@
 |721||[accounts merge](https://leetcode-cn.com/problems/accounts-merge/)||[中等][level_2]|
 |722||[remove comments](https://leetcode-cn.com/problems/remove-comments/)||[中等][level_2]|
 |723||[candy crush](https://leetcode-cn.com/problems/candy-crush/)||[中等][level_2]|
-|724||[find pivot index](https://leetcode-cn.com/problems/find-pivot-index/)||[简单][level_1]|
+|724||[find pivot index](https://leetcode-cn.com/problems/find-pivot-index/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/pivotIndex/pivotIndex.go)|[简单][level_1]|
 |725||[split linked list in parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/)||[中等][level_2]|
 |726||[number of atoms](https://leetcode-cn.com/problems/number-of-atoms/)||[困难][level_3]|
 |727||[minimum window subsequence](https://leetcode-cn.com/problems/minimum-window-subsequence/)||[困难][level_3]|
@@ -767,7 +767,7 @@
 |744||[find smallest letter greater than target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/)||[简单][level_1]|
 |745||[prefix and suffix search](https://leetcode-cn.com/problems/prefix-and-suffix-search/)||[困难][level_3]|
 |746||[min cost climbing stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)||[简单][level_1]|
-|747||[largest number at least twice of others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)||[简单][level_1]|
+|747||[largest number at least twice of others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/dominantIndex/dominantIndex.go)|[简单][level_1]|
 |748||[shortest completing word](https://leetcode-cn.com/problems/shortest-completing-word/)||[简单][level_1]|
 |749||[contain virus](https://leetcode-cn.com/problems/contain-virus/)||[困难][level_3]|
 |750||[number of corner rectangles](https://leetcode-cn.com/problems/number-of-corner-rectangles/)||[中等][level_2]|
