@@ -145,7 +145,7 @@
 |122||[best time to buy and sell stock ii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)||[简单][level_1]|
 |123||[best time to buy and sell stock iii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)||[困难][level_3]|
 |124||[binary tree maximum path sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)||[困难][level_3]|
-|125||[valid palindrome](https://leetcode-cn.com/problems/valid-palindrome/)||[简单][level_1]|
+|125||[valid palindrome](https://leetcode-cn.com/problems/valid-palindrome/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/isPalindrome/isPalindrome.go)|[简单][level_1]|
 |126||[word ladder ii](https://leetcode-cn.com/problems/word-ladder-ii/)||[困难][level_3]|
 |127||[word ladder](https://leetcode-cn.com/problems/word-ladder/)||[中等][level_2]|
 |128||[longest consecutive sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)||[困难][level_3]|
@@ -912,7 +912,7 @@
 |889||[construct binary tree from preorder and postorder traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)||[中等][level_2]|
 |890||[find and replace pattern](https://leetcode-cn.com/problems/find-and-replace-pattern/)||[中等][level_2]|
 |891||[sum of subsequence widths](https://leetcode-cn.com/problems/sum-of-subsequence-widths/)||[困难][level_3]|
-|892||[surface area of 3d shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)||[简单][level_1]|
+|892||[surface area of 3d shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/surfaceArea/surfaceArea.go)|[简单][level_1]|
 |893||[groups of special equivalent strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)||[简单][level_1]|
 |894||[all possible full binary trees](https://leetcode-cn.com/problems/all-possible-full-binary-trees/)||[中等][level_2]|
 |895||[maximum frequency stack](https://leetcode-cn.com/problems/maximum-frequency-stack/)||[困难][level_3]|
