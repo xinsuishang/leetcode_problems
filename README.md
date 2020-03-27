@@ -934,7 +934,7 @@
 |911||[online election](https://leetcode-cn.com/problems/online-election/)||[中等][level_2]|
 |912||[sort an array](https://leetcode-cn.com/problems/sort-an-array/)||[中等][level_2]|
 |913||[cat and mouse](https://leetcode-cn.com/problems/cat-and-mouse/)||[困难][level_3]|
-|914||[x of a kind in a deck of cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)||[简单][level_1]|
+|914||[x of a kind in a deck of cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/hasGroupsSizeX/hasGroupsSizeX.go)|[简单][level_1]|
 |915||[partition array into disjoint intervals](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/)||[中等][level_2]|
 |916||[word subsets](https://leetcode-cn.com/problems/word-subsets/)||[中等][level_2]|
 |917||[reverse only letters](https://leetcode-cn.com/problems/reverse-only-letters/)||[简单][level_1]|
