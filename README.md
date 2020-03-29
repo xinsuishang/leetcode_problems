@@ -164,7 +164,7 @@
 |141||[linked list cycle](https://leetcode-cn.com/problems/linked-list-cycle/)||[简单][level_1]|
 |142||[linked list cycle ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)||[中等][level_2]|
 |143||[reorder list](https://leetcode-cn.com/problems/reorder-list/)||[中等][level_2]|
-|144||[binary tree preorder traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)||[中等][level_2]|
+|144||[binary tree preorder traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/preorderTraversal/preorderTraversal.go)|[中等][level_2]|
 |145||[binary tree postorder traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)||[困难][level_3]|
 |146||[lru cache](https://leetcode-cn.com/problems/lru-cache/)||[中等][level_2]|
 |147||[insertion sort list](https://leetcode-cn.com/problems/insertion-sort-list/)||[中等][level_2]|
@@ -256,7 +256,7 @@
 |233||[number of digit one](https://leetcode-cn.com/problems/number-of-digit-one/)||[困难][level_3]|
 |234||[palindrome linked list](https://leetcode-cn.com/problems/palindrome-linked-list/)||[简单][level_1]|
 |235||[lowest common ancestor of a binary search tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)||[简单][level_1]|
-|236||[lowest common ancestor of a binary tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)||[中等][level_2]|
+|236||[lowest common ancestor of a binary tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/lowestCommonAncestor/lowestCommonAncestor.go)|[中等][level_2]|
 |237||[delete node in a linked list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)||[简单][level_1]|
 |238||[product of array except self](https://leetcode-cn.com/problems/product-of-array-except-self/)||[中等][level_2]|
 |239||[sliding window maximum](https://leetcode-cn.com/problems/sliding-window-maximum/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/maxSlidingWindow/maxSlidingWindow.go)|[困难][level_3]|
@@ -609,8 +609,8 @@
 |586||[customer placing the largest number of orders](https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders/)||[简单][level_1]|
 |587||[erect the fence](https://leetcode-cn.com/problems/erect-the-fence/)||[困难][level_3]|
 |588||[design in memory file system](https://leetcode-cn.com/problems/design-in-memory-file-system/)||[困难][level_3]|
-|589||[n ary tree preorder traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)||[简单][level_1]|
-|590||[n ary tree postorder traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)||[简单][level_1]|
+|589||[n ary tree preorder traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/preorder/preorder.go)|[简单][level_1]|
+|590||[n ary tree postorder traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/postorder/postorder.go)|[简单][level_1]|
 |591||[tag validator](https://leetcode-cn.com/problems/tag-validator/)||[困难][level_3]|
 |592||[fraction addition and subtraction](https://leetcode-cn.com/problems/fraction-addition-and-subtraction/)||[中等][level_2]|
 |593||[valid square](https://leetcode-cn.com/problems/valid-square/)||[中等][level_2]|
