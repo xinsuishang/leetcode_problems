@@ -8,11 +8,10 @@ package maxDepthAfterSplit
 // 官方解释贼绕，看了题解理解就是把其中一部分（）分别替换成{}，求每个的嵌套层数最少的情况
 
 func maxDepthAfterSplit(seq string) []int {
-	s := []byte(seq)
 	length := len(seq)
 	ans := make([]int, length, length)
 	d := 0
-	for idx, c := range s {
+	for idx, c := range seq {
 		if c == '(' {
 			ans[idx] = d % 2
 			d += 1
