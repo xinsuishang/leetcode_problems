@@ -1131,7 +1131,7 @@
 |1108||[defanging an ip address](https://leetcode-cn.com/problems/defanging-an-ip-address/)||[简单][level_1]|
 |1109||[corporate flight bookings](https://leetcode-cn.com/problems/corporate-flight-bookings/)||[中等][level_2]|
 |1110||[delete nodes and return forest](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/)||[中等][level_2]|
-|1111||[maximum nesting depth of two valid parentheses strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)||[中等][level_2]|
+|1111||[maximum nesting depth of two valid parentheses strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/maxDepthAfterSplit/maxDepthAfterSplit.go)|[中等][level_2]|
 |1112||[highest grade for each student](https://leetcode-cn.com/problems/highest-grade-for-each-student/)||[中等][level_2]|
 |1113||[reported posts](https://leetcode-cn.com/problems/reported-posts/)||[简单][level_1]|
 |1114||[print in order](https://leetcode-cn.com/problems/print-in-order/)||[简单][level_1]|
