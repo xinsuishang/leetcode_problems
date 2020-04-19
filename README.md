@@ -84,7 +84,7 @@
 |61||[rotate list](https://leetcode-cn.com/problems/rotate-list/)||[中等][level_2]|
 |62||[unique paths](https://leetcode-cn.com/problems/unique-paths/)||[中等][level_2]|
 |63||[unique paths ii](https://leetcode-cn.com/problems/unique-paths-ii/)||[中等][level_2]|
-|64||[minimum path sum](https://leetcode-cn.com/problems/minimum-path-sum/)||[中等][level_2]|
+|64||[minimum path sum](https://leetcode-cn.com/problems/minimum-path-sum/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/minPathSum/minPathSum.go)|[中等][level_2]|
 |65||[valid number](https://leetcode-cn.com/problems/valid-number/)||[困难][level_3]|
 |66||[plus one](https://leetcode-cn.com/problems/plus-one/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/plusOne/plusOne.go)|[简单][level_1]|
 |67||[add binary](https://leetcode-cn.com/problems/add-binary/)||[简单][level_1]|
@@ -111,7 +111,7 @@
 |88||[merge sorted array](https://leetcode-cn.com/problems/merge-sorted-array/)||[简单][level_1]|
 |89||[gray code](https://leetcode-cn.com/problems/gray-code/)||[中等][level_2]|
 |90||[subsets ii](https://leetcode-cn.com/problems/subsets-ii/)||[中等][level_2]|
-|91||[decode ways](https://leetcode-cn.com/problems/decode-ways/)||[中等][level_2]|
+|91||[decode ways](https://leetcode-cn.com/problems/decode-ways/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/numDecodings/numDecodings.go)|[中等][level_2]|
 |92||[reverse linked list ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/)||[中等][level_2]|
 |93||[restore ip addresses](https://leetcode-cn.com/problems/restore-ip-addresses/)||[中等][level_2]|
 |94||[binary tree inorder traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)||[中等][level_2]|
@@ -475,7 +475,7 @@
 |452||[minimum number of arrows to burst balloons](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)||[中等][level_2]|
 |453||[minimum moves to equal array elements](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)||[简单][level_1]|
 |454||[4sum ii](https://leetcode-cn.com/problems/4sum-ii/)||[中等][level_2]|
-|455||[assign cookies](https://leetcode-cn.com/problems/assign-cookies/)||[简单][level_1]|
+|455||[assign cookies](https://leetcode-cn.com/problems/assign-cookies/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/findContentChildren/findContentChildren.go)|[简单][level_1]|
 |456||[132 pattern](https://leetcode-cn.com/problems/132-pattern/)||[中等][level_2]|
 |457||[circular array loop](https://leetcode-cn.com/problems/circular-array-loop/)||[中等][level_2]|
 |458||[poor pigs](https://leetcode-cn.com/problems/poor-pigs/)||[困难][level_3]|
@@ -880,7 +880,7 @@
 |857||[minimum cost to hire k workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/)||[困难][level_3]|
 |858||[mirror reflection](https://leetcode-cn.com/problems/mirror-reflection/)||[中等][level_2]|
 |859||[buddy strings](https://leetcode-cn.com/problems/buddy-strings/)||[简单][level_1]|
-|860||[lemonade change](https://leetcode-cn.com/problems/lemonade-change/)||[简单][level_1]|
+|860||[lemonade change](https://leetcode-cn.com/problems/lemonade-change/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/lemonadeChange/lemonadeChange.go)|[简单][level_1]|
 |861||[score after flipping matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix/)||[中等][level_2]|
 |862||[shortest subarray with sum at least k](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/)||[困难][level_3]|
 |863||[all nodes distance k in binary tree](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)||[中等][level_2]|
