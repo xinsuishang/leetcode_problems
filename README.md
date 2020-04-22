@@ -164,7 +164,7 @@
 |141||[linked list cycle](https://leetcode-cn.com/problems/linked-list-cycle/)||[简单][level_1]|
 |142||[linked list cycle ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/)||[中等][level_2]|
 |143||[reorder list](https://leetcode-cn.com/problems/reorder-list/)||[中等][level_2]|
-|144||[binary tree preorder traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/preorderTraversal/preorderTraversal.go)|[中等][level_2]|
+|144||[binary tree preorder traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[golang](https://github.com/xinsuishang/leetcode_problems/blob/master/src/golang/preorderTraversal/preorderTraversal.go)|[中等][level_2]|
 |145||[binary tree postorder traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)||[困难][level_3]|
 |146||[lru cache](https://leetcode-cn.com/problems/lru-cache/)||[中等][level_2]|
 |147||[insertion sort list](https://leetcode-cn.com/problems/insertion-sort-list/)||[中等][level_2]|
